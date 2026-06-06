@@ -1,0 +1,108 @@
+{
+  "analysisId": "d85fbe7fae7e",
+  "jobTitle": "NextJs Developer",
+  "jobDescription": "About the job\r\n\r\nResponsibilities\r\n\r\nJunior Next.js Developer \u00e2\u20ac\u201d Job Description \r\n\r\n    Develop and maintain web applications using Next.js and React.js.\r\n    Build reusable UI components and frontend features.\r\n    Collaborate with designers, backend developers, and team members.\r\n    Optimize applications for performance, SEO, and responsiveness.\r\n    Write clean, maintainable, and scalable code.\r\n    Debug and troubleshoot application issues.\r\n    Participate in code reviews and team meetings.\r\n    Learn and apply modern frontend development best practices\r\n\r\nRequired Skills\r\n\r\n    Basic knowledge of JavaScript, TypeScript, HTML, and CSS.\r\n    Familiarity with React.js and Next.js framework.\r\n    Understanding of responsive web design.\r\n    Knowledge of REST APIs and API integration.\r\n    Familiarity with Git and version control systems.\r\n    Basic understanding of SEO and web performance optimization.\r\n    Strong problem-solving and communication skills.\r\n\r\nPreferred Qualifications\r\n\r\n    Experience with Tailwind CSS, Material UI, or Bootstrap.\r\n    Understanding of SSR (Server-Side Rendering) and SSG (Static Site Generation).\r\n    Familiarity with deployment platforms such as Vercel or Netlify.\r\n    Basic knowledge of databases and backend concepts.\r\n    Personal or academic projects using Next.js.",
+  "uploadedFiles": [
+    {
+      "name": "resume.pdf",
+      "size": 2956622,
+      "type": "pdf"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T18:26:58.553017+00:00",
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "REST API",
+    "Git",
+    "SEO",
+    "Tailwind CSS",
+    "Material UI",
+    "Bootstrap",
+    "SSR",
+    "SSG",
+    "Vercel",
+    "Netlify"
+  ],
+  "matchedKeywords": [
+    "JavaScript",
+    "TypeScript",
+    "CSS",
+    "React",
+    "Next.js",
+    "REST API",
+    "Git",
+    "SEO",
+    "Tailwind CSS",
+    "SSR",
+    "SSG"
+  ],
+  "missingKeywords": [
+    "HTML",
+    "Material UI",
+    "Bootstrap",
+    "Vercel",
+    "Netlify"
+  ],
+  "rankedResumes": [
+    {
+      "id": "resume.pdf-0",
+      "resumeName": "resume.pdf",
+      "score": 81,
+      "confidence": 73,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1786,
+        "potentialFit": 0.0883,
+        "goodFit": 0.7331
+      },
+      "skillsMatched": 8,
+      "gapRisk": 19,
+      "keywordCoverage": 69,
+      "matchedKeywords": [
+        "JavaScript",
+        "TypeScript",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Git",
+        "SEO",
+        "Tailwind CSS",
+        "SSR",
+        "SSG"
+      ],
+      "missingKeywords": [
+        "HTML",
+        "Material UI",
+        "Bootstrap",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 11 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    }
+  ],
+  "summary": {
+    "totalResumes": 1,
+    "avgScore": 81,
+    "topScore": 81,
+    "keywordInsights": {
+      "totalKeywords": 16,
+      "matchedKeywordsCount": 11,
+      "missingKeywordsCount": 5,
+      "coverageRate": 69
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 1,
+      "low": 0
+    }
+  }
+}

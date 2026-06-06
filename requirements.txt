@@ -1,5 +1,6 @@
-flask 
-os
+flask
 PyPDF2
 docx2txt
-sklearn
+transformers>=4.30
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch

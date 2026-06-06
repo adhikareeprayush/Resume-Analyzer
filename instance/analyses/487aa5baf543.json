@@ -1,0 +1,75 @@
+{
+  "analysisId": "487aa5baf543",
+  "jobTitle": "Software Engineer II - Frontend",
+  "jobDescription": "About The Job\r\n\r\nYou\u2019ll design and own end-to-end frontend features, contributing to the scalability, performance, and consistency of our platform. You\u2019ll extend our design system, optimize rendering performance, and help shape API contracts to improve user experience.\r\n\r\nYou\u2019ll lead small initiatives, mentor junior engineers, and proactively improve frontend architecture. This role is for engineers who combine strong technical execution with product awareness and an ownership mindset.\r\n\r\nResponsibilities\r\n\r\n    Design and implement end-to-end frontend features with strong focus on scalability and usability.\r\n    Contribute to the evolution of the design system and shared component libraries.\r\n    Architect reusable components and enforce consistency across applications.\r\n    Optimize rendering performance, bundle size, and runtime efficiency.\r\n    Implement and maintain comprehensive frontend test coverage.\r\n    Lead small frontend initiatives or feature pods.\r\n    Partner with backend engineers to influence API design for optimal UX.\r\n    Collaborate closely with product and design to shape user flows.\r\n    Proactively identify UX, performance, and technical debt issues.\r\n    Own frontend build configuration and CI/CD processes where applicable.\r\n    Mentor junior engineers and contribute to technical reviews.\r\n\r\nRequirements\r\n\r\n    3+ years of professional frontend experience.\r\n    Strong expertise in React and TypeScript.\r\n    Experience building scalable component systems.\r\n    Strong understanding of:\r\n        State management patterns\r\n        Rendering lifecycle and optimization\r\n        Code splitting and lazy loading\r\n    Experience with Tailwind CSS, Radix UI, Storybook, or similar ecosystems.\r\n    Solid knowledge of accessibility standards and responsive design.\r\n    Experience with Jest, Cypress, or equivalent testing tools.\r\n    Experience owning frontend features in production.\r\n    Strong product mindset with focus on user experience.\r\n    Demonstrated leadership in small teams or initiatives.\r\n    Ability to balance delivery speed with long-term maintainability.",
+  "uploadedFiles": [
+    {
+      "name": "resume.pdf",
+      "size": 2956622,
+      "type": "pdf"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T18:34:43.229921+00:00",
+  "keywords": [
+    "TypeScript",
+    "CSS",
+    "Tailwind CSS",
+    "API",
+    "CI/CD"
+  ],
+  "matchedKeywords": [
+    "TypeScript",
+    "CSS",
+    "Tailwind CSS",
+    "API"
+  ],
+  "missingKeywords": [
+    "CI/CD"
+  ],
+  "rankedResumes": [
+    {
+      "id": "resume.pdf-0",
+      "resumeName": "resume.pdf",
+      "score": 68,
+      "confidence": 40,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3394,
+        "potentialFit": 0.2597,
+        "goodFit": 0.4009
+      },
+      "skillsMatched": 4,
+      "gapRisk": 32,
+      "keywordCoverage": 80,
+      "matchedKeywords": [
+        "TypeScript",
+        "CSS",
+        "Tailwind CSS",
+        "API"
+      ],
+      "missingKeywords": [
+        "CI/CD"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 5 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    }
+  ],
+  "summary": {
+    "totalResumes": 1,
+    "avgScore": 68,
+    "topScore": 68,
+    "keywordInsights": {
+      "totalKeywords": 5,
+      "matchedKeywordsCount": 4,
+      "missingKeywordsCount": 1,
+      "coverageRate": 80
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 0,
+      "low": 1
+    }
+  }
+}

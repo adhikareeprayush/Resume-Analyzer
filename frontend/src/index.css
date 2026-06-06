@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap');
+@import 'tailwindcss';
+@source './src/**/*.{js,jsx,ts,tsx}';
+
+@theme {
+  --color-paper: #f7f5ef;
+  --color-ink: #111827;
+  --color-mint: #71c1a7;
+  --color-coral: #ee8a63;
+  --color-slate: #9ca3af;
+
+  --font-sans: 'Manrope', sans-serif;
+  --font-display: 'Fraunces', serif;
+
+  --shadow-soft: 0 16px 46px -28px rgba(17, 24, 39, 0.38);
+  --animate-fade-rise: fade-rise 520ms cubic-bezier(0.2, 0.7, 0.1, 1);
+
+  @keyframes fade-rise {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+@layer base {
+  * {
+    @apply box-border;
+  }
+
+  html,
+  body,
+  #root {
+    @apply min-h-screen;
+  }
+
+  body {
+    @apply m-0 bg-paper font-sans text-ink antialiased;
+  }
+}
+
+@layer utilities {
+  .grain-overlay {
+    background-image:
+      radial-gradient(circle at 16% 22%, rgba(113, 193, 167, 0.24), transparent 30%),
+      radial-gradient(circle at 82% 14%, rgba(238, 138, 99, 0.24), transparent 34%),
+      linear-gradient(120deg, rgba(255, 255, 255, 0.42), rgba(247, 245, 239, 0.92));
+  }
+
+  .grid-faint {
+    background-image:
+      linear-gradient(rgba(17, 24, 39, 0.06) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(17, 24, 39, 0.06) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  .stagger-1 {
+    animation-delay: 80ms;
+  }
+
+  .stagger-2 {
+    animation-delay: 150ms;
+  }
+
+  .stagger-3 {
+    animation-delay: 220ms;
+  }
+
+  .stagger-4 {
+    animation-delay: 290ms;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}

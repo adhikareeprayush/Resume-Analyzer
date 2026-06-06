@@ -1,0 +1,377 @@
+{
+  "analysisId": "858ae426a2e3",
+  "jobTitle": "Next.js Developer",
+  "jobDescription": "About the job\r\n\r\nResponsibilities\r\n\r\nJunior Next.js Developer \u00e2\u20ac\u201d Job Description \r\n\r\n    Develop and maintain web applications using Next.js and React.js.\r\n    Build reusable UI components and frontend features.\r\n    Collaborate with designers, backend developers, and team members.\r\n    Optimize applications for performance, SEO, and responsiveness.\r\n    Write clean, maintainable, and scalable code.\r\n    Debug and troubleshoot application issues.\r\n    Participate in code reviews and team meetings.\r\n    Learn and apply modern frontend development best practices\r\n\r\nRequired Skills\r\n\r\n    Basic knowledge of JavaScript, TypeScript, HTML, and CSS.\r\n    Familiarity with React.js and Next.js framework.\r\n    Understanding of responsive web design.\r\n    Knowledge of REST APIs and API integration.\r\n    Familiarity with Git and version control systems.\r\n    Basic understanding of SEO and web performance optimization.\r\n    Strong problem-solving and communication skills.\r\n\r\nPreferred Qualifications\r\n\r\n    Experience with Tailwind CSS, Material UI, or Bootstrap.\r\n    Understanding of SSR (Server-Side Rendering) and SSG (Static Site Generation).\r\n    Familiarity with deployment platforms such as Vercel or Netlify.\r\n    Basic knowledge of databases and backend concepts.\r\n    Personal or academic projects using Next.js.\r\n\r\nJob search faster with Premium\r\n\r\nAccess company insights like strategic priorities, headcount trends, and more",
+  "uploadedFiles": [
+    {
+      "name": "10089434.pdf",
+      "size": 27103,
+      "type": "pdf"
+    },
+    {
+      "name": "10247517.pdf",
+      "size": 25304,
+      "type": "pdf"
+    },
+    {
+      "name": "10265057.pdf",
+      "size": 20247,
+      "type": "pdf"
+    },
+    {
+      "name": "10553553.pdf",
+      "size": 24212,
+      "type": "pdf"
+    },
+    {
+      "name": "10641230.pdf",
+      "size": 21543,
+      "type": "pdf"
+    },
+    {
+      "name": "10839851.pdf",
+      "size": 21180,
+      "type": "pdf"
+    },
+    {
+      "name": "10840430.pdf",
+      "size": 24409,
+      "type": "pdf"
+    },
+    {
+      "name": "11580408.pdf",
+      "size": 22412,
+      "type": "pdf"
+    },
+    {
+      "name": "11584809.pdf",
+      "size": 42190,
+      "type": "pdf"
+    },
+    {
+      "name": "11957080.pdf",
+      "size": 28301,
+      "type": "pdf"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T16:33:11.835057+00:00",
+  "keywords": [
+    "about",
+    "job",
+    "responsibilities",
+    "junior",
+    "next",
+    "developer",
+    "description",
+    "develop",
+    "maintain",
+    "web",
+    "applications",
+    "using"
+  ],
+  "matchedKeywords": [
+    "responsibilities",
+    "next",
+    "develop",
+    "maintain",
+    "web",
+    "applications",
+    "using"
+  ],
+  "missingKeywords": [
+    "about",
+    "job",
+    "junior",
+    "developer",
+    "description"
+  ],
+  "rankedResumes": [
+    {
+      "id": "11957080.pdf-9",
+      "resumeName": "11957080.pdf",
+      "score": 17,
+      "confidence": 29,
+      "skillsMatched": 5,
+      "gapRisk": 83,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Matched 5 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10089434.pdf-0",
+      "resumeName": "10089434.pdf",
+      "score": 13,
+      "confidence": 25,
+      "skillsMatched": 4,
+      "gapRisk": 87,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Matched 4 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10641230.pdf-4",
+      "resumeName": "10641230.pdf",
+      "score": 12,
+      "confidence": 24,
+      "skillsMatched": 3,
+      "gapRisk": 88,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "next",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "applications"
+      ],
+      "explanation": "Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10840430.pdf-6",
+      "resumeName": "10840430.pdf",
+      "score": 12,
+      "confidence": 24,
+      "skillsMatched": 3,
+      "gapRisk": 88,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "responsibilities",
+        "develop",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10265057.pdf-2",
+      "resumeName": "10265057.pdf",
+      "score": 11,
+      "confidence": 23,
+      "skillsMatched": 3,
+      "gapRisk": 89,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "applications"
+      ],
+      "explanation": "Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10553553.pdf-3",
+      "resumeName": "10553553.pdf",
+      "score": 11,
+      "confidence": 23,
+      "skillsMatched": 3,
+      "gapRisk": 89,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "using"
+      ],
+      "explanation": "Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "11580408.pdf-7",
+      "resumeName": "11580408.pdf",
+      "score": 9,
+      "confidence": 18,
+      "skillsMatched": 2,
+      "gapRisk": 91,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "maintain",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "explanation": "Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "11584809.pdf-8",
+      "resumeName": "11584809.pdf",
+      "score": 9,
+      "confidence": 19,
+      "skillsMatched": 2,
+      "gapRisk": 91,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10247517.pdf-1",
+      "resumeName": "10247517.pdf",
+      "score": 8,
+      "confidence": 17,
+      "skillsMatched": 2,
+      "gapRisk": 92,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "explanation": "Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "10839851.pdf-5",
+      "resumeName": "10839851.pdf",
+      "score": 6,
+      "confidence": 12,
+      "skillsMatched": 1,
+      "gapRisk": 94,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Matched 1 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    }
+  ],
+  "summary": {
+    "totalResumes": 10,
+    "avgScore": 11,
+    "topScore": 17,
+    "keywordInsights": {
+      "totalKeywords": 12,
+      "matchedKeywordsCount": 7,
+      "missingKeywordsCount": 5,
+      "coverageRate": 58
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 0,
+      "low": 10
+    }
+  }
+}

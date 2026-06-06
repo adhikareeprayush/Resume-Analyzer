@@ -1,0 +1,48 @@
+{
+  "analysisId": "ac47071c1a07",
+  "jobTitle": "Machine Learning Engineer",
+  "jobDescription": "We need a machine learning engineer with Python, model evaluation, Flask APIs, and NLP exposure.",
+  "uploadedFiles": [
+    {
+      "name": "candidate1.txt",
+      "size": 43,
+      "type": "txt"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T16:21:28.491989+00:00",
+  "keywords": [
+    "need",
+    "machine",
+    "learning",
+    "engineer",
+    "python",
+    "model",
+    "evaluation",
+    "flask",
+    "apis",
+    "nlp",
+    "exposure"
+  ],
+  "rankedResumes": [
+    {
+      "id": "candidate1.txt-0",
+      "resumeName": "candidate1.txt",
+      "score": 16,
+      "confidence": 24,
+      "skillsMatched": 2,
+      "gapRisk": 84,
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    }
+  ],
+  "summary": {
+    "totalResumes": 1,
+    "avgScore": 16,
+    "topScore": 16,
+    "distribution": {
+      "high": 0,
+      "medium": 0,
+      "low": 1
+    }
+  }
+}

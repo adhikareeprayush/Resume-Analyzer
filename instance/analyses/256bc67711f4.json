@@ -1,0 +1,56 @@
+{
+  "analysisId": "256bc67711f4",
+  "jobTitle": "Machine Learning Engineer",
+  "jobDescription": "Python Flask NLP model evaluation",
+  "uploadedFiles": [
+    {
+      "name": "candidate1.txt",
+      "size": 50,
+      "type": "txt"
+    },
+    {
+      "name": "candidate2.txt",
+      "size": 38,
+      "type": "txt"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T16:19:01.941785+00:00",
+  "keywords": [
+    "python",
+    "flask",
+    "nlp",
+    "model",
+    "evaluation"
+  ],
+  "rankedResumes": [
+    {
+      "id": "candidate1.txt-0",
+      "resumeName": "candidate1.txt",
+      "score": 77,
+      "confidence": 89,
+      "skillsMatched": 5,
+      "gapRisk": 23,
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "candidate2.txt-1",
+      "resumeName": "candidate2.txt",
+      "score": 0,
+      "confidence": 1,
+      "skillsMatched": 1,
+      "gapRisk": 100,
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    }
+  ],
+  "summary": {
+    "totalResumes": 2,
+    "avgScore": 38,
+    "topScore": 77,
+    "distribution": {
+      "high": 0,
+      "medium": 1,
+      "low": 1
+    }
+  }
+}

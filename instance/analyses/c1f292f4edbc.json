@@ -1,0 +1,86 @@
+{
+  "analysisId": "c1f292f4edbc",
+  "jobTitle": "Machine Learning Engineer",
+  "jobDescription": "We need a machine learning engineer with Python, model evaluation, Flask APIs, and NLP exposure.",
+  "uploadedFiles": [
+    {
+      "name": "candidate1.txt",
+      "size": 43,
+      "type": "txt"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T16:32:25.287915+00:00",
+  "keywords": [
+    "need",
+    "machine",
+    "learning",
+    "engineer",
+    "python",
+    "model",
+    "evaluation",
+    "flask",
+    "apis",
+    "nlp",
+    "exposure"
+  ],
+  "matchedKeywords": [
+    "python",
+    "flask"
+  ],
+  "missingKeywords": [
+    "need",
+    "machine",
+    "learning",
+    "engineer",
+    "model",
+    "evaluation",
+    "apis",
+    "nlp",
+    "exposure"
+  ],
+  "rankedResumes": [
+    {
+      "id": "candidate1.txt-0",
+      "resumeName": "candidate1.txt",
+      "score": 17,
+      "confidence": 25,
+      "skillsMatched": 2,
+      "gapRisk": 83,
+      "keywordCoverage": 18,
+      "matchedKeywords": [
+        "python",
+        "flask"
+      ],
+      "missingKeywords": [
+        "need",
+        "machine",
+        "learning",
+        "engineer",
+        "model",
+        "evaluation",
+        "apis",
+        "nlp",
+        "exposure"
+      ],
+      "explanation": "Matched 2 of 11 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    }
+  ],
+  "summary": {
+    "totalResumes": 1,
+    "avgScore": 17,
+    "topScore": 17,
+    "keywordInsights": {
+      "totalKeywords": 11,
+      "matchedKeywordsCount": 2,
+      "missingKeywordsCount": 9,
+      "coverageRate": 18
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 0,
+      "low": 1
+    }
+  }
+}

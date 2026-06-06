@@ -249,21 +249,20 @@
         </form>
 
         {% if message %}
-            <div class="message {% if top_r %}success{% else %}error{% endif %}">
-                {% if not top_r %}
-                    {{ message }}
-                {% endif %}
-                {% if top_r %}
-                    <div class="results" style="display: block;">
-                        <h3>Top Matching Resumes:</h3>
-                        {% for i in range(top_r|length) %}
-                            <div class="result-item">
-                                <div class="resume-name">{{ top_r[i] }}</div>
-                                <div class="score">Match Score: {{ "%.2f"|format(similarity_scores[i]) }}</div>
-                            </div>
-                        {% endfor %}
+            <div class="message {% if results %}success{% else %}error{% endif %}">
+                {{ message }}
+            </div>
+        {% endif %}
+
+        {% if results %}
+            <div class="results" style="display: block;">
+                <h3>Top Matching Resumes:</h3>
+                {% for result in results %}
+                    <div class="result-item">
+                        <div class="resume-name">{{ result.name }}</div>
+                        <div class="score">Match Score: {{ "%.2f"|format(result.score) }}</div>
                     </div>
-                {% endif %}
+                {% endfor %}
             </div>
         {% endif %}
 

@@ -1,0 +1,100 @@
+{
+  "analysisId": "8953d6b47496",
+  "jobTitle": "Machine Learning Engineer",
+  "jobDescription": "Python Flask NLP model evaluation resume ranking",
+  "uploadedFiles": [
+    {
+      "name": "resume1.txt",
+      "size": 45,
+      "type": "txt"
+    },
+    {
+      "name": "resume2.txt",
+      "size": 46,
+      "type": "txt"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T16:31:47.273187+00:00",
+  "keywords": [
+    "python",
+    "flask",
+    "nlp",
+    "model",
+    "evaluation",
+    "resume",
+    "ranking"
+  ],
+  "matchedKeywords": [
+    "python",
+    "flask",
+    "nlp",
+    "model",
+    "evaluation",
+    "ranking"
+  ],
+  "missingKeywords": [
+    "resume"
+  ],
+  "rankedResumes": [
+    {
+      "id": "resume1.txt-0",
+      "resumeName": "resume1.txt",
+      "score": 87,
+      "confidence": 99,
+      "skillsMatched": 6,
+      "gapRisk": 13,
+      "keywordCoverage": 86,
+      "matchedKeywords": [
+        "python",
+        "flask",
+        "nlp",
+        "model",
+        "evaluation",
+        "ranking"
+      ],
+      "missingKeywords": [
+        "resume"
+      ],
+      "explanation": "Matched 6 of 7 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "resume2.txt-1",
+      "resumeName": "resume2.txt",
+      "score": 0,
+      "confidence": 1,
+      "skillsMatched": 1,
+      "gapRisk": 100,
+      "keywordCoverage": 0,
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "python",
+        "flask",
+        "nlp",
+        "model",
+        "evaluation",
+        "resume",
+        "ranking"
+      ],
+      "explanation": "No strong keyword overlap found, so the resume needs closer review.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    }
+  ],
+  "summary": {
+    "totalResumes": 2,
+    "avgScore": 44,
+    "topScore": 87,
+    "keywordInsights": {
+      "totalKeywords": 7,
+      "matchedKeywordsCount": 6,
+      "missingKeywordsCount": 1,
+      "coverageRate": 86
+    },
+    "distribution": {
+      "high": 1,
+      "medium": 0,
+      "low": 1
+    }
+  }
+}

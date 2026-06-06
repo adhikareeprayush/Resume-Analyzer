@@ -1,0 +1,4731 @@
+{
+  "analysisId": "cd9c6603d604",
+  "jobTitle": "NextJs Developer",
+  "jobDescription": "About the job\r\n\r\nResponsibilities\r\n\r\nJunior Next.js Developer \u00e2\u20ac\u201d Job Description \r\n\r\n    Develop and maintain web applications using Next.js and React.js.\r\n    Build reusable UI components and frontend features.\r\n    Collaborate with designers, backend developers, and team members.\r\n    Optimize applications for performance, SEO, and responsiveness.\r\n    Write clean, maintainable, and scalable code.\r\n    Debug and troubleshoot application issues.\r\n    Participate in code reviews and team meetings.\r\n    Learn and apply modern frontend development best practices\r\n\r\nRequired Skills\r\n\r\n    Basic knowledge of JavaScript, TypeScript, HTML, and CSS.\r\n    Familiarity with React.js and Next.js framework.\r\n    Understanding of responsive web design.\r\n    Knowledge of REST APIs and API integration.\r\n    Familiarity with Git and version control systems.\r\n    Basic understanding of SEO and web performance optimization.\r\n    Strong problem-solving and communication skills.\r\n\r\nPreferred Qualifications\r\n\r\n    Experience with Tailwind CSS, Material UI, or Bootstrap.\r\n    Understanding of SSR (Server-Side Rendering) and SSG (Static Site Generation).\r\n    Familiarity with deployment platforms such as Vercel or Netlify.\r\n    Basic knowledge of databases and backend concepts.\r\n    Personal or academic projects using Next.js.",
+  "uploadedFiles": [
+    {
+      "name": "10089434.pdf",
+      "size": 27103,
+      "type": "pdf"
+    },
+    {
+      "name": "10247517.pdf",
+      "size": 25304,
+      "type": "pdf"
+    },
+    {
+      "name": "10265057.pdf",
+      "size": 20247,
+      "type": "pdf"
+    },
+    {
+      "name": "10553553.pdf",
+      "size": 24212,
+      "type": "pdf"
+    },
+    {
+      "name": "10641230.pdf",
+      "size": 21543,
+      "type": "pdf"
+    },
+    {
+      "name": "10839851.pdf",
+      "size": 21180,
+      "type": "pdf"
+    },
+    {
+      "name": "10840430.pdf",
+      "size": 24409,
+      "type": "pdf"
+    },
+    {
+      "name": "11580408.pdf",
+      "size": 22412,
+      "type": "pdf"
+    },
+    {
+      "name": "11584809.pdf",
+      "size": 42190,
+      "type": "pdf"
+    },
+    {
+      "name": "11957080.pdf",
+      "size": 28301,
+      "type": "pdf"
+    },
+    {
+      "name": "12045067.pdf",
+      "size": 26163,
+      "type": "pdf"
+    },
+    {
+      "name": "12334140.pdf",
+      "size": 30603,
+      "type": "pdf"
+    },
+    {
+      "name": "12635195.pdf",
+      "size": 18566,
+      "type": "pdf"
+    },
+    {
+      "name": "12763627.pdf",
+      "size": 22487,
+      "type": "pdf"
+    },
+    {
+      "name": "13385306.pdf",
+      "size": 22775,
+      "type": "pdf"
+    },
+    {
+      "name": "13405733.pdf",
+      "size": 26124,
+      "type": "pdf"
+    },
+    {
+      "name": "13477922.pdf",
+      "size": 22657,
+      "type": "pdf"
+    },
+    {
+      "name": "13836471.pdf",
+      "size": 22133,
+      "type": "pdf"
+    },
+    {
+      "name": "14789139.pdf",
+      "size": 26330,
+      "type": "pdf"
+    },
+    {
+      "name": "15118506.pdf",
+      "size": 32657,
+      "type": "pdf"
+    },
+    {
+      "name": "15297298.pdf",
+      "size": 23247,
+      "type": "pdf"
+    },
+    {
+      "name": "15651486.pdf",
+      "size": 25455,
+      "type": "pdf"
+    },
+    {
+      "name": "15791766.pdf",
+      "size": 22893,
+      "type": "pdf"
+    },
+    {
+      "name": "15802627.pdf",
+      "size": 26144,
+      "type": "pdf"
+    },
+    {
+      "name": "16186411.pdf",
+      "size": 27366,
+      "type": "pdf"
+    },
+    {
+      "name": "16533554.pdf",
+      "size": 23201,
+      "type": "pdf"
+    },
+    {
+      "name": "16899268.pdf",
+      "size": 19942,
+      "type": "pdf"
+    },
+    {
+      "name": "17111768.pdf",
+      "size": 51328,
+      "type": "pdf"
+    },
+    {
+      "name": "17641670.pdf",
+      "size": 34740,
+      "type": "pdf"
+    },
+    {
+      "name": "17681064.pdf",
+      "size": 23943,
+      "type": "pdf"
+    },
+    {
+      "name": "17688766.pdf",
+      "size": 21539,
+      "type": "pdf"
+    },
+    {
+      "name": "17987433.pdf",
+      "size": 25025,
+      "type": "pdf"
+    },
+    {
+      "name": "18067556.pdf",
+      "size": 46068,
+      "type": "pdf"
+    },
+    {
+      "name": "18159866.pdf",
+      "size": 39816,
+      "type": "pdf"
+    },
+    {
+      "name": "18176523.pdf",
+      "size": 21559,
+      "type": "pdf"
+    },
+    {
+      "name": "18187364.pdf",
+      "size": 29798,
+      "type": "pdf"
+    },
+    {
+      "name": "18301617.pdf",
+      "size": 22336,
+      "type": "pdf"
+    },
+    {
+      "name": "18752129.pdf",
+      "size": 26723,
+      "type": "pdf"
+    },
+    {
+      "name": "19201175.pdf",
+      "size": 24324,
+      "type": "pdf"
+    },
+    {
+      "name": "19796840.pdf",
+      "size": 36856,
+      "type": "pdf"
+    },
+    {
+      "name": "19850482.pdf",
+      "size": 30490,
+      "type": "pdf"
+    },
+    {
+      "name": "20001721.pdf",
+      "size": 36831,
+      "type": "pdf"
+    },
+    {
+      "name": "20024870.pdf",
+      "size": 19736,
+      "type": "pdf"
+    },
+    {
+      "name": "20237244.pdf",
+      "size": 19016,
+      "type": "pdf"
+    },
+    {
+      "name": "20408458.pdf",
+      "size": 25791,
+      "type": "pdf"
+    },
+    {
+      "name": "20674668.pdf",
+      "size": 32132,
+      "type": "pdf"
+    },
+    {
+      "name": "20824105.pdf",
+      "size": 28326,
+      "type": "pdf"
+    },
+    {
+      "name": "20879311.pdf",
+      "size": 26980,
+      "type": "pdf"
+    },
+    {
+      "name": "21283365.pdf",
+      "size": 23855,
+      "type": "pdf"
+    },
+    {
+      "name": "21780877.pdf",
+      "size": 24076,
+      "type": "pdf"
+    },
+    {
+      "name": "22450718.pdf",
+      "size": 26937,
+      "type": "pdf"
+    },
+    {
+      "name": "22776912.pdf",
+      "size": 28259,
+      "type": "pdf"
+    },
+    {
+      "name": "23527321.pdf",
+      "size": 23257,
+      "type": "pdf"
+    },
+    {
+      "name": "23666211.pdf",
+      "size": 24435,
+      "type": "pdf"
+    },
+    {
+      "name": "23864648.pdf",
+      "size": 24491,
+      "type": "pdf"
+    },
+    {
+      "name": "24020470.pdf",
+      "size": 27811,
+      "type": "pdf"
+    },
+    {
+      "name": "24038620.pdf",
+      "size": 22615,
+      "type": "pdf"
+    },
+    {
+      "name": "24083609.pdf",
+      "size": 16807,
+      "type": "pdf"
+    },
+    {
+      "name": "24230851.pdf",
+      "size": 21468,
+      "type": "pdf"
+    },
+    {
+      "name": "24889109.pdf",
+      "size": 20329,
+      "type": "pdf"
+    },
+    {
+      "name": "24913648.pdf",
+      "size": 25597,
+      "type": "pdf"
+    },
+    {
+      "name": "25207620.pdf",
+      "size": 23103,
+      "type": "pdf"
+    },
+    {
+      "name": "25857360.pdf",
+      "size": 24370,
+      "type": "pdf"
+    },
+    {
+      "name": "25905275.pdf",
+      "size": 23820,
+      "type": "pdf"
+    },
+    {
+      "name": "25959103.pdf",
+      "size": 21881,
+      "type": "pdf"
+    },
+    {
+      "name": "25990239.pdf",
+      "size": 22655,
+      "type": "pdf"
+    },
+    {
+      "name": "26480367.pdf",
+      "size": 21929,
+      "type": "pdf"
+    },
+    {
+      "name": "26746496.pdf",
+      "size": 35435,
+      "type": "pdf"
+    },
+    {
+      "name": "26768723.pdf",
+      "size": 21876,
+      "type": "pdf"
+    },
+    {
+      "name": "26801767.pdf",
+      "size": 29499,
+      "type": "pdf"
+    },
+    {
+      "name": "27058381.pdf",
+      "size": 29228,
+      "type": "pdf"
+    },
+    {
+      "name": "27295996.pdf",
+      "size": 24777,
+      "type": "pdf"
+    },
+    {
+      "name": "27372171.pdf",
+      "size": 31744,
+      "type": "pdf"
+    },
+    {
+      "name": "27485716.pdf",
+      "size": 24055,
+      "type": "pdf"
+    },
+    {
+      "name": "27536013.pdf",
+      "size": 22979,
+      "type": "pdf"
+    },
+    {
+      "name": "27770859.pdf",
+      "size": 22393,
+      "type": "pdf"
+    },
+    {
+      "name": "28035460.pdf",
+      "size": 25848,
+      "type": "pdf"
+    },
+    {
+      "name": "28126340.pdf",
+      "size": 25002,
+      "type": "pdf"
+    },
+    {
+      "name": "28672970.pdf",
+      "size": 24616,
+      "type": "pdf"
+    },
+    {
+      "name": "28697203.pdf",
+      "size": 23366,
+      "type": "pdf"
+    },
+    {
+      "name": "28897981.pdf",
+      "size": 33522,
+      "type": "pdf"
+    },
+    {
+      "name": "29051656.pdf",
+      "size": 33367,
+      "type": "pdf"
+    },
+    {
+      "name": "29075857.pdf",
+      "size": 26112,
+      "type": "pdf"
+    },
+    {
+      "name": "29975124.pdf",
+      "size": 23609,
+      "type": "pdf"
+    },
+    {
+      "name": "30223363.pdf",
+      "size": 26038,
+      "type": "pdf"
+    },
+    {
+      "name": "31111279.pdf",
+      "size": 35315,
+      "type": "pdf"
+    },
+    {
+      "name": "31243710.pdf",
+      "size": 25529,
+      "type": "pdf"
+    },
+    {
+      "name": "32959732.pdf",
+      "size": 41106,
+      "type": "pdf"
+    },
+    {
+      "name": "33241454.pdf",
+      "size": 20137,
+      "type": "pdf"
+    },
+    {
+      "name": "33381211.pdf",
+      "size": 32067,
+      "type": "pdf"
+    },
+    {
+      "name": "35325329.pdf",
+      "size": 23873,
+      "type": "pdf"
+    },
+    {
+      "name": "36434348.pdf",
+      "size": 22855,
+      "type": "pdf"
+    },
+    {
+      "name": "36856210.pdf",
+      "size": 21728,
+      "type": "pdf"
+    },
+    {
+      "name": "37242217.pdf",
+      "size": 34175,
+      "type": "pdf"
+    },
+    {
+      "name": "37764298.pdf",
+      "size": 26310,
+      "type": "pdf"
+    },
+    {
+      "name": "38753827.pdf",
+      "size": 30466,
+      "type": "pdf"
+    },
+    {
+      "name": "39413067.pdf",
+      "size": 22080,
+      "type": "pdf"
+    },
+    {
+      "name": "39718499.pdf",
+      "size": 17881,
+      "type": "pdf"
+    },
+    {
+      "name": "40018190.pdf",
+      "size": 38800,
+      "type": "pdf"
+    },
+    {
+      "name": "41344156.pdf",
+      "size": 23576,
+      "type": "pdf"
+    },
+    {
+      "name": "46260230.pdf",
+      "size": 39613,
+      "type": "pdf"
+    },
+    {
+      "name": "48037995.pdf",
+      "size": 23544,
+      "type": "pdf"
+    },
+    {
+      "name": "51363762.pdf",
+      "size": 26452,
+      "type": "pdf"
+    },
+    {
+      "name": "51639418.pdf",
+      "size": 22825,
+      "type": "pdf"
+    },
+    {
+      "name": "52246737.pdf",
+      "size": 25388,
+      "type": "pdf"
+    },
+    {
+      "name": "52618188.pdf",
+      "size": 24566,
+      "type": "pdf"
+    },
+    {
+      "name": "57002858.pdf",
+      "size": 21850,
+      "type": "pdf"
+    },
+    {
+      "name": "64017585.pdf",
+      "size": 18919,
+      "type": "pdf"
+    },
+    {
+      "name": "66832845.pdf",
+      "size": 21100,
+      "type": "pdf"
+    },
+    {
+      "name": "68460556.pdf",
+      "size": 17775,
+      "type": "pdf"
+    },
+    {
+      "name": "70089206.pdf",
+      "size": 25544,
+      "type": "pdf"
+    },
+    {
+      "name": "79541391.pdf",
+      "size": 28376,
+      "type": "pdf"
+    },
+    {
+      "name": "81761658.pdf",
+      "size": 25484,
+      "type": "pdf"
+    },
+    {
+      "name": "83816738.pdf",
+      "size": 29300,
+      "type": "pdf"
+    },
+    {
+      "name": "89413122.pdf",
+      "size": 20925,
+      "type": "pdf"
+    },
+    {
+      "name": "90867631.pdf",
+      "size": 32821,
+      "type": "pdf"
+    },
+    {
+      "name": "91121135.pdf",
+      "size": 26763,
+      "type": "pdf"
+    },
+    {
+      "name": "91635250.pdf",
+      "size": 25306,
+      "type": "pdf"
+    },
+    {
+      "name": "91697974.pdf",
+      "size": 23381,
+      "type": "pdf"
+    },
+    {
+      "name": "92069209.pdf",
+      "size": 22524,
+      "type": "pdf"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T18:18:23.195547+00:00",
+  "keywords": [
+    "about",
+    "job",
+    "responsibilities",
+    "junior",
+    "next",
+    "developer",
+    "description",
+    "develop",
+    "maintain",
+    "web",
+    "applications",
+    "using"
+  ],
+  "matchedKeywords": [
+    "about",
+    "job",
+    "responsibilities",
+    "junior",
+    "next",
+    "developer",
+    "description",
+    "develop",
+    "maintain",
+    "web",
+    "applications",
+    "using"
+  ],
+  "missingKeywords": [],
+  "rankedResumes": [
+    {
+      "id": "66832845.pdf-108",
+      "resumeName": "66832845.pdf",
+      "score": 84,
+      "confidence": 80,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1325,
+        "potentialFit": 0.0648,
+        "goodFit": 0.8028
+      },
+      "skillsMatched": 2,
+      "gapRisk": 16,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "maintain",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "13385306.pdf-14",
+      "resumeName": "13385306.pdf",
+      "score": 83,
+      "confidence": 80,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1325,
+        "potentialFit": 0.0677,
+        "goodFit": 0.7998
+      },
+      "skillsMatched": 4,
+      "gapRisk": 17,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "developer",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "36434348.pdf-91",
+      "resumeName": "36434348.pdf",
+      "score": 83,
+      "confidence": 78,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1479,
+        "potentialFit": 0.0732,
+        "goodFit": 0.7788
+      },
+      "skillsMatched": 6,
+      "gapRisk": 17,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "developer",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "10089434.pdf-0",
+      "resumeName": "10089434.pdf",
+      "score": 82,
+      "confidence": 75,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1593,
+        "potentialFit": 0.0909,
+        "goodFit": 0.7499
+      },
+      "skillsMatched": 4,
+      "gapRisk": 18,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "10641230.pdf-4",
+      "resumeName": "10641230.pdf",
+      "score": 82,
+      "confidence": 77,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1565,
+        "potentialFit": 0.0719,
+        "goodFit": 0.7716
+      },
+      "skillsMatched": 3,
+      "gapRisk": 18,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "next",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "11580408.pdf-7",
+      "resumeName": "11580408.pdf",
+      "score": 82,
+      "confidence": 77,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1493,
+        "potentialFit": 0.0816,
+        "goodFit": 0.7691
+      },
+      "skillsMatched": 2,
+      "gapRisk": 18,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "maintain",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "12635195.pdf-12",
+      "resumeName": "12635195.pdf",
+      "score": 82,
+      "confidence": 77,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1599,
+        "potentialFit": 0.0741,
+        "goodFit": 0.766
+      },
+      "skillsMatched": 3,
+      "gapRisk": 18,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "12763627.pdf-13",
+      "resumeName": "12763627.pdf",
+      "score": 82,
+      "confidence": 75,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.16,
+        "potentialFit": 0.0908,
+        "goodFit": 0.7492
+      },
+      "skillsMatched": 6,
+      "gapRisk": 18,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "responsibilities",
+        "developer",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15118506.pdf-19",
+      "resumeName": "15118506.pdf",
+      "score": 82,
+      "confidence": 76,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1573,
+        "potentialFit": 0.0824,
+        "goodFit": 0.7604
+      },
+      "skillsMatched": 2,
+      "gapRisk": 18,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "26768723.pdf-68",
+      "resumeName": "26768723.pdf",
+      "score": 82,
+      "confidence": 76,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1571,
+        "potentialFit": 0.0796,
+        "goodFit": 0.7633
+      },
+      "skillsMatched": 1,
+      "gapRisk": 18,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "about"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "27058381.pdf-70",
+      "resumeName": "27058381.pdf",
+      "score": 82,
+      "confidence": 75,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1569,
+        "potentialFit": 0.0885,
+        "goodFit": 0.7546
+      },
+      "skillsMatched": 7,
+      "gapRisk": 18,
+      "keywordCoverage": 58,
+      "matchedKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "description",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "junior",
+        "next",
+        "developer",
+        "develop",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 7 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "51639418.pdf-103",
+      "resumeName": "51639418.pdf",
+      "score": 82,
+      "confidence": 77,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1545,
+        "potentialFit": 0.0748,
+        "goodFit": 0.7706
+      },
+      "skillsMatched": 1,
+      "gapRisk": 18,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "83816738.pdf-113",
+      "resumeName": "83816738.pdf",
+      "score": 82,
+      "confidence": 76,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1592,
+        "potentialFit": 0.0806,
+        "goodFit": 0.7602
+      },
+      "skillsMatched": 6,
+      "gapRisk": 18,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "about",
+        "developer",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "31243710.pdf-86",
+      "resumeName": "31243710.pdf",
+      "score": 81,
+      "confidence": 76,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1678,
+        "potentialFit": 0.0757,
+        "goodFit": 0.7565
+      },
+      "skillsMatched": 2,
+      "gapRisk": 19,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "37242217.pdf-93",
+      "resumeName": "37242217.pdf",
+      "score": 81,
+      "confidence": 74,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1727,
+        "potentialFit": 0.0894,
+        "goodFit": 0.7379
+      },
+      "skillsMatched": 4,
+      "gapRisk": 19,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "developer",
+        "develop",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "maintain",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "41344156.pdf-99",
+      "resumeName": "41344156.pdf",
+      "score": 81,
+      "confidence": 73,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1746,
+        "potentialFit": 0.1001,
+        "goodFit": 0.7253
+      },
+      "skillsMatched": 5,
+      "gapRisk": 19,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "about",
+        "developer",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "16186411.pdf-24",
+      "resumeName": "16186411.pdf",
+      "score": 80,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1909,
+        "potentialFit": 0.0947,
+        "goodFit": 0.7143
+      },
+      "skillsMatched": 8,
+      "gapRisk": 20,
+      "keywordCoverage": 67,
+      "matchedKeywords": [
+        "about",
+        "responsibilities",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "junior",
+        "next",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 8 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "19796840.pdf-39",
+      "resumeName": "19796840.pdf",
+      "score": 80,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1948,
+        "potentialFit": 0.0904,
+        "goodFit": 0.7148
+      },
+      "skillsMatched": 6,
+      "gapRisk": 20,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "job",
+        "developer",
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "21283365.pdf-48",
+      "resumeName": "21283365.pdf",
+      "score": 80,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.194,
+        "potentialFit": 0.0927,
+        "goodFit": 0.7133
+      },
+      "skillsMatched": 2,
+      "gapRisk": 20,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "responsibilities",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "23666211.pdf-53",
+      "resumeName": "23666211.pdf",
+      "score": 80,
+      "confidence": 72,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1998,
+        "potentialFit": 0.0827,
+        "goodFit": 0.7175
+      },
+      "skillsMatched": 4,
+      "gapRisk": 20,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "26746496.pdf-67",
+      "resumeName": "26746496.pdf",
+      "score": 80,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1929,
+        "potentialFit": 0.0977,
+        "goodFit": 0.7094
+      },
+      "skillsMatched": 8,
+      "gapRisk": 20,
+      "keywordCoverage": 67,
+      "matchedKeywords": [
+        "about",
+        "responsibilities",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "junior",
+        "next",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 8 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "39413067.pdf-96",
+      "resumeName": "39413067.pdf",
+      "score": 80,
+      "confidence": 73,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1801,
+        "potentialFit": 0.0905,
+        "goodFit": 0.7294
+      },
+      "skillsMatched": 2,
+      "gapRisk": 20,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "responsibilities",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "51363762.pdf-102",
+      "resumeName": "51363762.pdf",
+      "score": 80,
+      "confidence": 73,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1858,
+        "potentialFit": 0.0889,
+        "goodFit": 0.7253
+      },
+      "skillsMatched": 3,
+      "gapRisk": 20,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "junior",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "52618188.pdf-105",
+      "resumeName": "52618188.pdf",
+      "score": 80,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1949,
+        "potentialFit": 0.0924,
+        "goodFit": 0.7127
+      },
+      "skillsMatched": 3,
+      "gapRisk": 20,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "57002858.pdf-106",
+      "resumeName": "57002858.pdf",
+      "score": 80,
+      "confidence": 73,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1906,
+        "potentialFit": 0.0831,
+        "goodFit": 0.7263
+      },
+      "skillsMatched": 1,
+      "gapRisk": 20,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "13477922.pdf-16",
+      "resumeName": "13477922.pdf",
+      "score": 79,
+      "confidence": 70,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.209,
+        "potentialFit": 0.0955,
+        "goodFit": 0.6955
+      },
+      "skillsMatched": 3,
+      "gapRisk": 21,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "junior",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15791766.pdf-22",
+      "resumeName": "15791766.pdf",
+      "score": 79,
+      "confidence": 68,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2096,
+        "potentialFit": 0.1085,
+        "goodFit": 0.6819
+      },
+      "skillsMatched": 1,
+      "gapRisk": 21,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "description"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17641670.pdf-28",
+      "resumeName": "17641670.pdf",
+      "score": 79,
+      "confidence": 70,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1964,
+        "potentialFit": 0.1047,
+        "goodFit": 0.6989
+      },
+      "skillsMatched": 7,
+      "gapRisk": 21,
+      "keywordCoverage": 58,
+      "matchedKeywords": [
+        "about",
+        "responsibilities",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 7 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18752129.pdf-37",
+      "resumeName": "18752129.pdf",
+      "score": 79,
+      "confidence": 69,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2049,
+        "potentialFit": 0.1056,
+        "goodFit": 0.6895
+      },
+      "skillsMatched": 3,
+      "gapRisk": 21,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "job",
+        "responsibilities",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "19201175.pdf-38",
+      "resumeName": "19201175.pdf",
+      "score": 79,
+      "confidence": 68,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.205,
+        "potentialFit": 0.1164,
+        "goodFit": 0.6786
+      },
+      "skillsMatched": 3,
+      "gapRisk": 21,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "about",
+        "responsibilities",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "20001721.pdf-41",
+      "resumeName": "20001721.pdf",
+      "score": 79,
+      "confidence": 69,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2096,
+        "potentialFit": 0.0984,
+        "goodFit": 0.692
+      },
+      "skillsMatched": 1,
+      "gapRisk": 21,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "develop"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "20674668.pdf-45",
+      "resumeName": "20674668.pdf",
+      "score": 79,
+      "confidence": 69,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2052,
+        "potentialFit": 0.1093,
+        "goodFit": 0.6855
+      },
+      "skillsMatched": 7,
+      "gapRisk": 21,
+      "keywordCoverage": 58,
+      "matchedKeywords": [
+        "about",
+        "developer",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 7 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "25207620.pdf-61",
+      "resumeName": "25207620.pdf",
+      "score": 79,
+      "confidence": 69,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2098,
+        "potentialFit": 0.1024,
+        "goodFit": 0.6878
+      },
+      "skillsMatched": 2,
+      "gapRisk": 21,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "job",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "27770859.pdf-75",
+      "resumeName": "27770859.pdf",
+      "score": 79,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1956,
+        "potentialFit": 0.0985,
+        "goodFit": 0.7059
+      },
+      "skillsMatched": 7,
+      "gapRisk": 21,
+      "keywordCoverage": 58,
+      "matchedKeywords": [
+        "job",
+        "responsibilities",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "junior",
+        "next",
+        "developer",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 7 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "40018190.pdf-98",
+      "resumeName": "40018190.pdf",
+      "score": 79,
+      "confidence": 70,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2022,
+        "potentialFit": 0.094,
+        "goodFit": 0.7038
+      },
+      "skillsMatched": 4,
+      "gapRisk": 21,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "90867631.pdf-115",
+      "resumeName": "90867631.pdf",
+      "score": 79,
+      "confidence": 69,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2069,
+        "potentialFit": 0.1026,
+        "goodFit": 0.6904
+      },
+      "skillsMatched": 4,
+      "gapRisk": 21,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18187364.pdf-35",
+      "resumeName": "18187364.pdf",
+      "score": 78,
+      "confidence": 67,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2293,
+        "potentialFit": 0.1048,
+        "goodFit": 0.6659
+      },
+      "skillsMatched": 4,
+      "gapRisk": 22,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "20879311.pdf-47",
+      "resumeName": "20879311.pdf",
+      "score": 78,
+      "confidence": 67,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2263,
+        "potentialFit": 0.1059,
+        "goodFit": 0.6677
+      },
+      "skillsMatched": 3,
+      "gapRisk": 22,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "next",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "24230851.pdf-58",
+      "resumeName": "24230851.pdf",
+      "score": 78,
+      "confidence": 66,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.206,
+        "potentialFit": 0.1315,
+        "goodFit": 0.6625
+      },
+      "skillsMatched": 7,
+      "gapRisk": 22,
+      "keywordCoverage": 58,
+      "matchedKeywords": [
+        "about",
+        "job",
+        "developer",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 7 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "27536013.pdf-74",
+      "resumeName": "27536013.pdf",
+      "score": 78,
+      "confidence": 67,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2184,
+        "potentialFit": 0.1137,
+        "goodFit": 0.6679
+      },
+      "skillsMatched": 4,
+      "gapRisk": 22,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "28126340.pdf-77",
+      "resumeName": "28126340.pdf",
+      "score": 78,
+      "confidence": 66,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2225,
+        "potentialFit": 0.1156,
+        "goodFit": 0.6619
+      },
+      "skillsMatched": 6,
+      "gapRisk": 22,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "responsibilities",
+        "developer",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "31111279.pdf-85",
+      "resumeName": "31111279.pdf",
+      "score": 78,
+      "confidence": 68,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2149,
+        "potentialFit": 0.1001,
+        "goodFit": 0.685
+      },
+      "skillsMatched": 4,
+      "gapRisk": 22,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "about",
+        "job",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "39718499.pdf-97",
+      "resumeName": "39718499.pdf",
+      "score": 78,
+      "confidence": 69,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2191,
+        "potentialFit": 0.0952,
+        "goodFit": 0.6857
+      },
+      "skillsMatched": 1,
+      "gapRisk": 22,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "46260230.pdf-100",
+      "resumeName": "46260230.pdf",
+      "score": 78,
+      "confidence": 67,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2254,
+        "potentialFit": 0.1068,
+        "goodFit": 0.6678
+      },
+      "skillsMatched": 4,
+      "gapRisk": 22,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "11957080.pdf-9",
+      "resumeName": "11957080.pdf",
+      "score": 77,
+      "confidence": 64,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2408,
+        "potentialFit": 0.115,
+        "goodFit": 0.6442
+      },
+      "skillsMatched": 5,
+      "gapRisk": 23,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "13836471.pdf-17",
+      "resumeName": "13836471.pdf",
+      "score": 77,
+      "confidence": 65,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2245,
+        "potentialFit": 0.1256,
+        "goodFit": 0.6499
+      },
+      "skillsMatched": 5,
+      "gapRisk": 23,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "responsibilities",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "16899268.pdf-26",
+      "resumeName": "16899268.pdf",
+      "score": 77,
+      "confidence": 64,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2393,
+        "potentialFit": 0.1191,
+        "goodFit": 0.6416
+      },
+      "skillsMatched": 3,
+      "gapRisk": 23,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17111768.pdf-27",
+      "resumeName": "17111768.pdf",
+      "score": 77,
+      "confidence": 66,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2327,
+        "potentialFit": 0.1097,
+        "goodFit": 0.6576
+      },
+      "skillsMatched": 4,
+      "gapRisk": 23,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "responsibilities",
+        "develop",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17688766.pdf-30",
+      "resumeName": "17688766.pdf",
+      "score": 77,
+      "confidence": 65,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2413,
+        "potentialFit": 0.1083,
+        "goodFit": 0.6504
+      },
+      "skillsMatched": 2,
+      "gapRisk": 23,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "29075857.pdf-82",
+      "resumeName": "29075857.pdf",
+      "score": 77,
+      "confidence": 65,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2395,
+        "potentialFit": 0.1102,
+        "goodFit": 0.6503
+      },
+      "skillsMatched": 2,
+      "gapRisk": 23,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "developer",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "70089206.pdf-110",
+      "resumeName": "70089206.pdf",
+      "score": 77,
+      "confidence": 65,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2391,
+        "potentialFit": 0.114,
+        "goodFit": 0.6469
+      },
+      "skillsMatched": 3,
+      "gapRisk": 23,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "81761658.pdf-112",
+      "resumeName": "81761658.pdf",
+      "score": 77,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2391,
+        "potentialFit": 0.1265,
+        "goodFit": 0.6344
+      },
+      "skillsMatched": 4,
+      "gapRisk": 23,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "develop",
+        "maintain",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "10247517.pdf-1",
+      "resumeName": "10247517.pdf",
+      "score": 76,
+      "confidence": 62,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2554,
+        "potentialFit": 0.1206,
+        "goodFit": 0.624
+      },
+      "skillsMatched": 2,
+      "gapRisk": 24,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "10839851.pdf-5",
+      "resumeName": "10839851.pdf",
+      "score": 76,
+      "confidence": 64,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2653,
+        "potentialFit": 0.0987,
+        "goodFit": 0.636
+      },
+      "skillsMatched": 1,
+      "gapRisk": 24,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "12334140.pdf-11",
+      "resumeName": "12334140.pdf",
+      "score": 76,
+      "confidence": 61,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2531,
+        "potentialFit": 0.138,
+        "goodFit": 0.6089
+      },
+      "skillsMatched": 5,
+      "gapRisk": 24,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "about",
+        "job",
+        "next",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "responsibilities",
+        "junior",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15651486.pdf-21",
+      "resumeName": "15651486.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2513,
+        "potentialFit": 0.1141,
+        "goodFit": 0.6345
+      },
+      "skillsMatched": 2,
+      "gapRisk": 24,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18301617.pdf-36",
+      "resumeName": "18301617.pdf",
+      "score": 76,
+      "confidence": 62,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2584,
+        "potentialFit": 0.1235,
+        "goodFit": 0.6182
+      },
+      "skillsMatched": 4,
+      "gapRisk": 24,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "20024870.pdf-42",
+      "resumeName": "20024870.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2471,
+        "potentialFit": 0.119,
+        "goodFit": 0.6339
+      },
+      "skillsMatched": 5,
+      "gapRisk": 24,
+      "keywordCoverage": 0,
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 0 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "25905275.pdf-63",
+      "resumeName": "25905275.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2451,
+        "potentialFit": 0.1225,
+        "goodFit": 0.6324
+      },
+      "skillsMatched": 3,
+      "gapRisk": 24,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "27372171.pdf-72",
+      "resumeName": "27372171.pdf",
+      "score": 76,
+      "confidence": 64,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2517,
+        "potentialFit": 0.1132,
+        "goodFit": 0.635
+      },
+      "skillsMatched": 4,
+      "gapRisk": 24,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "job",
+        "develop",
+        "maintain",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "27485716.pdf-73",
+      "resumeName": "27485716.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2487,
+        "potentialFit": 0.1176,
+        "goodFit": 0.6337
+      },
+      "skillsMatched": 2,
+      "gapRisk": 24,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "36856210.pdf-92",
+      "resumeName": "36856210.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2519,
+        "potentialFit": 0.1209,
+        "goodFit": 0.6272
+      },
+      "skillsMatched": 3,
+      "gapRisk": 24,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "responsibilities",
+        "next",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "38753827.pdf-95",
+      "resumeName": "38753827.pdf",
+      "score": 76,
+      "confidence": 62,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2485,
+        "potentialFit": 0.1304,
+        "goodFit": 0.621
+      },
+      "skillsMatched": 3,
+      "gapRisk": 24,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "maintain",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "91697974.pdf-118",
+      "resumeName": "91697974.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2507,
+        "potentialFit": 0.1223,
+        "goodFit": 0.627
+      },
+      "skillsMatched": 2,
+      "gapRisk": 24,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "10553553.pdf-3",
+      "resumeName": "10553553.pdf",
+      "score": 75,
+      "confidence": 60,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2587,
+        "potentialFit": 0.1409,
+        "goodFit": 0.6004
+      },
+      "skillsMatched": 3,
+      "gapRisk": 25,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18176523.pdf-34",
+      "resumeName": "18176523.pdf",
+      "score": 75,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2686,
+        "potentialFit": 0.1386,
+        "goodFit": 0.5927
+      },
+      "skillsMatched": 1,
+      "gapRisk": 25,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "junior"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "20408458.pdf-44",
+      "resumeName": "20408458.pdf",
+      "score": 75,
+      "confidence": 58,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2583,
+        "potentialFit": 0.1646,
+        "goodFit": 0.5771
+      },
+      "skillsMatched": 2,
+      "gapRisk": 25,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "25990239.pdf-65",
+      "resumeName": "25990239.pdf",
+      "score": 75,
+      "confidence": 62,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2733,
+        "potentialFit": 0.1069,
+        "goodFit": 0.6198
+      },
+      "skillsMatched": 1,
+      "gapRisk": 25,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "27295996.pdf-71",
+      "resumeName": "27295996.pdf",
+      "score": 75,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2741,
+        "potentialFit": 0.132,
+        "goodFit": 0.5939
+      },
+      "skillsMatched": 4,
+      "gapRisk": 25,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "30223363.pdf-84",
+      "resumeName": "30223363.pdf",
+      "score": 75,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2752,
+        "potentialFit": 0.1299,
+        "goodFit": 0.5949
+      },
+      "skillsMatched": 6,
+      "gapRisk": 25,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "responsibilities",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "13405733.pdf-15",
+      "resumeName": "13405733.pdf",
+      "score": 74,
+      "confidence": 60,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2817,
+        "potentialFit": 0.1207,
+        "goodFit": 0.5975
+      },
+      "skillsMatched": 3,
+      "gapRisk": 26,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "job",
+        "next",
+        "develop"
+      ],
+      "missingKeywords": [
+        "about",
+        "responsibilities",
+        "junior",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "23864648.pdf-54",
+      "resumeName": "23864648.pdf",
+      "score": 74,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2816,
+        "potentialFit": 0.1325,
+        "goodFit": 0.5859
+      },
+      "skillsMatched": 4,
+      "gapRisk": 26,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "24020470.pdf-55",
+      "resumeName": "24020470.pdf",
+      "score": 74,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2839,
+        "potentialFit": 0.1227,
+        "goodFit": 0.5933
+      },
+      "skillsMatched": 1,
+      "gapRisk": 26,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "68460556.pdf-109",
+      "resumeName": "68460556.pdf",
+      "score": 74,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2773,
+        "potentialFit": 0.1296,
+        "goodFit": 0.5931
+      },
+      "skillsMatched": 1,
+      "gapRisk": 26,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "about"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "79541391.pdf-111",
+      "resumeName": "79541391.pdf",
+      "score": 74,
+      "confidence": 58,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2823,
+        "potentialFit": 0.1332,
+        "goodFit": 0.5845
+      },
+      "skillsMatched": 5,
+      "gapRisk": 26,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "about",
+        "responsibilities",
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "16533554.pdf-25",
+      "resumeName": "16533554.pdf",
+      "score": 72,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3001,
+        "potentialFit": 0.1672,
+        "goodFit": 0.5326
+      },
+      "skillsMatched": 3,
+      "gapRisk": 28,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17681064.pdf-29",
+      "resumeName": "17681064.pdf",
+      "score": 72,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3145,
+        "potentialFit": 0.1563,
+        "goodFit": 0.5292
+      },
+      "skillsMatched": 1,
+      "gapRisk": 28,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "19850482.pdf-40",
+      "resumeName": "19850482.pdf",
+      "score": 72,
+      "confidence": 52,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3216,
+        "potentialFit": 0.1554,
+        "goodFit": 0.5231
+      },
+      "skillsMatched": 2,
+      "gapRisk": 28,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "maintain",
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "22450718.pdf-50",
+      "resumeName": "22450718.pdf",
+      "score": 72,
+      "confidence": 55,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3174,
+        "potentialFit": 0.135,
+        "goodFit": 0.5476
+      },
+      "skillsMatched": 3,
+      "gapRisk": 28,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "32959732.pdf-87",
+      "resumeName": "32959732.pdf",
+      "score": 72,
+      "confidence": 52,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3177,
+        "potentialFit": 0.1592,
+        "goodFit": 0.5231
+      },
+      "skillsMatched": 4,
+      "gapRisk": 28,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "52246737.pdf-104",
+      "resumeName": "52246737.pdf",
+      "score": 72,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3123,
+        "potentialFit": 0.16,
+        "goodFit": 0.5278
+      },
+      "skillsMatched": 4,
+      "gapRisk": 28,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "junior",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "91121135.pdf-116",
+      "resumeName": "91121135.pdf",
+      "score": 72,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3252,
+        "potentialFit": 0.1407,
+        "goodFit": 0.5341
+      },
+      "skillsMatched": 1,
+      "gapRisk": 28,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15297298.pdf-20",
+      "resumeName": "15297298.pdf",
+      "score": 71,
+      "confidence": 52,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3407,
+        "potentialFit": 0.1432,
+        "goodFit": 0.5161
+      },
+      "skillsMatched": 1,
+      "gapRisk": 29,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "develop"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "24038620.pdf-56",
+      "resumeName": "24038620.pdf",
+      "score": 71,
+      "confidence": 52,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3279,
+        "potentialFit": 0.1492,
+        "goodFit": 0.5229
+      },
+      "skillsMatched": 1,
+      "gapRisk": 29,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "24889109.pdf-59",
+      "resumeName": "24889109.pdf",
+      "score": 71,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3292,
+        "potentialFit": 0.1437,
+        "goodFit": 0.5271
+      },
+      "skillsMatched": 1,
+      "gapRisk": 29,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "33241454.pdf-88",
+      "resumeName": "33241454.pdf",
+      "score": 71,
+      "confidence": 52,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3239,
+        "potentialFit": 0.1566,
+        "goodFit": 0.5195
+      },
+      "skillsMatched": 1,
+      "gapRisk": 29,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "11584809.pdf-8",
+      "resumeName": "11584809.pdf",
+      "score": 70,
+      "confidence": 50,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3403,
+        "potentialFit": 0.1601,
+        "goodFit": 0.4996
+      },
+      "skillsMatched": 2,
+      "gapRisk": 30,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "25959103.pdf-64",
+      "resumeName": "25959103.pdf",
+      "score": 70,
+      "confidence": 49,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3491,
+        "potentialFit": 0.1603,
+        "goodFit": 0.4906
+      },
+      "skillsMatched": 5,
+      "gapRisk": 30,
+      "keywordCoverage": 0,
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 0 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "26480367.pdf-66",
+      "resumeName": "26480367.pdf",
+      "score": 70,
+      "confidence": 50,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.369,
+        "potentialFit": 0.1279,
+        "goodFit": 0.5031
+      },
+      "skillsMatched": 5,
+      "gapRisk": 30,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "28697203.pdf-79",
+      "resumeName": "28697203.pdf",
+      "score": 70,
+      "confidence": 50,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3643,
+        "potentialFit": 0.1335,
+        "goodFit": 0.5022
+      },
+      "skillsMatched": 5,
+      "gapRisk": 30,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "12045067.pdf-10",
+      "resumeName": "12045067.pdf",
+      "score": 69,
+      "confidence": 48,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3603,
+        "potentialFit": 0.1599,
+        "goodFit": 0.4798
+      },
+      "skillsMatched": 1,
+      "gapRisk": 31,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "develop"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18159866.pdf-33",
+      "resumeName": "18159866.pdf",
+      "score": 68,
+      "confidence": 43,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.369,
+        "potentialFit": 0.2031,
+        "goodFit": 0.4279
+      },
+      "skillsMatched": 5,
+      "gapRisk": 32,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "about",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "28672970.pdf-78",
+      "resumeName": "28672970.pdf",
+      "score": 68,
+      "confidence": 43,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3764,
+        "potentialFit": 0.1974,
+        "goodFit": 0.4263
+      },
+      "skillsMatched": 2,
+      "gapRisk": 32,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "develop",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15802627.pdf-23",
+      "resumeName": "15802627.pdf",
+      "score": 67,
+      "confidence": 41,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3811,
+        "potentialFit": 0.2067,
+        "goodFit": 0.4122
+      },
+      "skillsMatched": 5,
+      "gapRisk": 33,
+      "keywordCoverage": 42,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "21780877.pdf-49",
+      "resumeName": "21780877.pdf",
+      "score": 66,
+      "confidence": 42,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.416,
+        "potentialFit": 0.1672,
+        "goodFit": 0.4168
+      },
+      "skillsMatched": 4,
+      "gapRisk": 34,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "applications"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "22776912.pdf-51",
+      "resumeName": "22776912.pdf",
+      "score": 66,
+      "confidence": 42,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4241,
+        "potentialFit": 0.1625,
+        "goodFit": 0.4134
+      },
+      "skillsMatched": 4,
+      "gapRisk": 34,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "20824105.pdf-46",
+      "resumeName": "20824105.pdf",
+      "score": 65,
+      "confidence": 38,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.356,
+        "potentialFit": 0.3814,
+        "goodFit": 0.2626
+      },
+      "skillsMatched": 1,
+      "gapRisk": 35,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "29975124.pdf-83",
+      "resumeName": "29975124.pdf",
+      "score": 64,
+      "confidence": 40,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.3997,
+        "potentialFit": 0.3236,
+        "goodFit": 0.2767
+      },
+      "skillsMatched": 4,
+      "gapRisk": 36,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "92069209.pdf-119",
+      "resumeName": "92069209.pdf",
+      "score": 64,
+      "confidence": 42,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4216,
+        "potentialFit": 0.2713,
+        "goodFit": 0.3071
+      },
+      "skillsMatched": 5,
+      "gapRisk": 36,
+      "keywordCoverage": 0,
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 0 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "64017585.pdf-107",
+      "resumeName": "64017585.pdf",
+      "score": 63,
+      "confidence": 44,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4449,
+        "potentialFit": 0.2717,
+        "goodFit": 0.2834
+      },
+      "skillsMatched": 2,
+      "gapRisk": 37,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "91635250.pdf-117",
+      "resumeName": "91635250.pdf",
+      "score": 63,
+      "confidence": 46,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4602,
+        "potentialFit": 0.185,
+        "goodFit": 0.3548
+      },
+      "skillsMatched": 6,
+      "gapRisk": 37,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "job",
+        "responsibilities",
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "14789139.pdf-18",
+      "resumeName": "14789139.pdf",
+      "score": 61,
+      "confidence": 45,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4544,
+        "potentialFit": 0.3153,
+        "goodFit": 0.2303
+      },
+      "skillsMatched": 6,
+      "gapRisk": 39,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "junior",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "next",
+        "developer",
+        "description"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 6 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "24083609.pdf-57",
+      "resumeName": "24083609.pdf",
+      "score": 61,
+      "confidence": 46,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4612,
+        "potentialFit": 0.2816,
+        "goodFit": 0.2572
+      },
+      "skillsMatched": 4,
+      "gapRisk": 39,
+      "keywordCoverage": 0,
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 0 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "48037995.pdf-101",
+      "resumeName": "48037995.pdf",
+      "score": 61,
+      "confidence": 44,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4366,
+        "potentialFit": 0.3862,
+        "goodFit": 0.1772
+      },
+      "skillsMatched": 3,
+      "gapRisk": 39,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "about",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "17987433.pdf-31",
+      "resumeName": "17987433.pdf",
+      "score": 60,
+      "confidence": 45,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4494,
+        "potentialFit": 0.4039,
+        "goodFit": 0.1467
+      },
+      "skillsMatched": 1,
+      "gapRisk": 40,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "develop"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "28897981.pdf-80",
+      "resumeName": "28897981.pdf",
+      "score": 60,
+      "confidence": 48,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4845,
+        "potentialFit": 0.2843,
+        "goodFit": 0.2312
+      },
+      "skillsMatched": 4,
+      "gapRisk": 40,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "developer",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "description",
+        "develop",
+        "maintain"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "33381211.pdf-89",
+      "resumeName": "33381211.pdf",
+      "score": 60,
+      "confidence": 53,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.3931,
+        "potentialFit": 0.5338,
+        "goodFit": 0.0731
+      },
+      "skillsMatched": 4,
+      "gapRisk": 40,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "about",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "35325329.pdf-90",
+      "resumeName": "35325329.pdf",
+      "score": 60,
+      "confidence": 43,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.4323,
+        "potentialFit": 0.4327,
+        "goodFit": 0.135
+      },
+      "skillsMatched": 4,
+      "gapRisk": 40,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "37764298.pdf-94",
+      "resumeName": "37764298.pdf",
+      "score": 60,
+      "confidence": 47,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.4186,
+        "potentialFit": 0.4677,
+        "goodFit": 0.1137
+      },
+      "skillsMatched": 4,
+      "gapRisk": 40,
+      "keywordCoverage": 33,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 4 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "10265057.pdf-2",
+      "resumeName": "10265057.pdf",
+      "score": 59,
+      "confidence": 51,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.5148,
+        "potentialFit": 0.2551,
+        "goodFit": 0.2301
+      },
+      "skillsMatched": 3,
+      "gapRisk": 41,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "develop",
+        "maintain",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "26801767.pdf-69",
+      "resumeName": "26801767.pdf",
+      "score": 59,
+      "confidence": 52,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.4253,
+        "potentialFit": 0.5192,
+        "goodFit": 0.0554
+      },
+      "skillsMatched": 1,
+      "gapRisk": 41,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "29051656.pdf-81",
+      "resumeName": "29051656.pdf",
+      "score": 59,
+      "confidence": 49,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.4274,
+        "potentialFit": 0.4898,
+        "goodFit": 0.0827
+      },
+      "skillsMatched": 3,
+      "gapRisk": 41,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "responsibilities",
+        "web",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "applications"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "10840430.pdf-6",
+      "resumeName": "10840430.pdf",
+      "score": 58,
+      "confidence": 50,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.5042,
+        "potentialFit": 0.3328,
+        "goodFit": 0.1631
+      },
+      "skillsMatched": 3,
+      "gapRisk": 42,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "responsibilities",
+        "develop",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 3 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "18067556.pdf-32",
+      "resumeName": "18067556.pdf",
+      "score": 58,
+      "confidence": 52,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.4277,
+        "potentialFit": 0.5209,
+        "goodFit": 0.0514
+      },
+      "skillsMatched": 1,
+      "gapRisk": 42,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "responsibilities"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    },
+    {
+      "id": "20237244.pdf-43",
+      "resumeName": "20237244.pdf",
+      "score": 57,
+      "confidence": 55,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.5502,
+        "potentialFit": 0.2507,
+        "goodFit": 0.1991
+      },
+      "skillsMatched": 1,
+      "gapRisk": 43,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "23527321.pdf-52",
+      "resumeName": "23527321.pdf",
+      "score": 57,
+      "confidence": 49,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4886,
+        "potentialFit": 0.4371,
+        "goodFit": 0.0743
+      },
+      "skillsMatched": 1,
+      "gapRisk": 43,
+      "keywordCoverage": 8,
+      "matchedKeywords": [
+        "web"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 1 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "24913648.pdf-60",
+      "resumeName": "24913648.pdf",
+      "score": 57,
+      "confidence": 50,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.5014,
+        "potentialFit": 0.3992,
+        "goodFit": 0.0993
+      },
+      "skillsMatched": 2,
+      "gapRisk": 43,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "responsibilities",
+        "maintain"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "25857360.pdf-62",
+      "resumeName": "25857360.pdf",
+      "score": 56,
+      "confidence": 57,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.5742,
+        "potentialFit": 0.2487,
+        "goodFit": 0.177
+      },
+      "skillsMatched": 2,
+      "gapRisk": 44,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "responsibilities",
+        "using"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "89413122.pdf-114",
+      "resumeName": "89413122.pdf",
+      "score": 56,
+      "confidence": 50,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4996,
+        "potentialFit": 0.428,
+        "goodFit": 0.0724
+      },
+      "skillsMatched": 2,
+      "gapRisk": 44,
+      "keywordCoverage": 17,
+      "matchedKeywords": [
+        "responsibilities",
+        "applications"
+      ],
+      "missingKeywords": [
+        "about",
+        "job",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 2 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "28035460.pdf-76",
+      "resumeName": "28035460.pdf",
+      "score": 55,
+      "confidence": 56,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.5608,
+        "potentialFit": 0.3407,
+        "goodFit": 0.0985
+      },
+      "skillsMatched": 4,
+      "gapRisk": 45,
+      "keywordCoverage": 0,
+      "matchedKeywords": [],
+      "missingKeywords": [
+        "about",
+        "job",
+        "responsibilities",
+        "junior",
+        "next",
+        "developer",
+        "description",
+        "develop",
+        "maintain",
+        "web",
+        "applications",
+        "using"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 0 of 12 key job keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    }
+  ],
+  "summary": {
+    "totalResumes": 120,
+    "avgScore": 73,
+    "topScore": 84,
+    "keywordInsights": {
+      "totalKeywords": 12,
+      "matchedKeywordsCount": 12,
+      "missingKeywordsCount": 0,
+      "coverageRate": 100
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 70,
+      "low": 50
+    }
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "analysisId": "d2aa0958a9aa",
+  "jobTitle": "NextJs Developer",
+  "jobDescription": "About the job\r\n\r\nResponsibilities\r\n\r\nJunior Next.js Developer \u00e2\u20ac\u201d Job Description \r\n\r\n    Develop and maintain web applications using Next.js and React.js.\r\n    Build reusable UI components and frontend features.\r\n    Collaborate with designers, backend developers, and team members.\r\n    Optimize applications for performance, SEO, and responsiveness.\r\n    Write clean, maintainable, and scalable code.\r\n    Debug and troubleshoot application issues.\r\n    Participate in code reviews and team meetings.\r\n    Learn and apply modern frontend development best practices\r\n\r\nRequired Skills\r\n\r\n    Basic knowledge of JavaScript, TypeScript, HTML, and CSS.\r\n    Familiarity with React.js and Next.js framework.\r\n    Understanding of responsive web design.\r\n    Knowledge of REST APIs and API integration.\r\n    Familiarity with Git and version control systems.\r\n    Basic understanding of SEO and web performance optimization.\r\n    Strong problem-solving and communication skills.\r\n\r\nPreferred Qualifications\r\n\r\n    Experience with Tailwind CSS, Material UI, or Bootstrap.\r\n    Understanding of SSR (Server-Side Rendering) and SSG (Static Site Generation).\r\n    Familiarity with deployment platforms such as Vercel or Netlify.\r\n    Basic knowledge of databases and backend concepts.\r\n    Personal or academic projects using Next.js.",
+  "uploadedFiles": [
+    {
+      "name": "14789139.pdf",
+      "size": 26330,
+      "type": "pdf"
+    },
+    {
+      "name": "15118506.pdf",
+      "size": 32657,
+      "type": "pdf"
+    },
+    {
+      "name": "15297298.pdf",
+      "size": 23247,
+      "type": "pdf"
+    },
+    {
+      "name": "15651486.pdf",
+      "size": 25455,
+      "type": "pdf"
+    },
+    {
+      "name": "15791766.pdf",
+      "size": 22893,
+      "type": "pdf"
+    },
+    {
+      "name": "15802627.pdf",
+      "size": 26144,
+      "type": "pdf"
+    },
+    {
+      "name": "16186411.pdf",
+      "size": 27366,
+      "type": "pdf"
+    },
+    {
+      "name": "16533554.pdf",
+      "size": 23201,
+      "type": "pdf"
+    },
+    {
+      "name": "16899268.pdf",
+      "size": 19942,
+      "type": "pdf"
+    },
+    {
+      "name": "17111768.pdf",
+      "size": 51328,
+      "type": "pdf"
+    },
+    {
+      "name": "17641670.pdf",
+      "size": 34740,
+      "type": "pdf"
+    },
+    {
+      "name": "17681064.pdf",
+      "size": 23943,
+      "type": "pdf"
+    },
+    {
+      "name": "17688766.pdf",
+      "size": 21539,
+      "type": "pdf"
+    },
+    {
+      "name": "17987433.pdf",
+      "size": 25025,
+      "type": "pdf"
+    },
+    {
+      "name": "18067556.pdf",
+      "size": 46068,
+      "type": "pdf"
+    },
+    {
+      "name": "18159866.pdf",
+      "size": 39816,
+      "type": "pdf"
+    },
+    {
+      "name": "18176523.pdf",
+      "size": 21559,
+      "type": "pdf"
+    },
+    {
+      "name": "18187364.pdf",
+      "size": 29798,
+      "type": "pdf"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-03T18:31:24.358554+00:00",
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "REST API",
+    "Git",
+    "SEO",
+    "Tailwind CSS",
+    "Material UI",
+    "Bootstrap",
+    "SSR",
+    "SSG",
+    "Vercel",
+    "Netlify"
+  ],
+  "matchedKeywords": [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "React",
+    "Next.js",
+    "REST API",
+    "Git",
+    "SEO",
+    "Bootstrap",
+    "SSR"
+  ],
+  "missingKeywords": [
+    "Tailwind CSS",
+    "Material UI",
+    "SSG",
+    "Vercel",
+    "Netlify"
+  ],
+  "rankedResumes": [
+    {
+      "id": "15118506.pdf-1",
+      "resumeName": "15118506.pdf",
+      "score": 82,
+      "confidence": 76,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1573,
+        "potentialFit": 0.0824,
+        "goodFit": 0.7604
+      },
+      "skillsMatched": 3,
+      "gapRisk": 18,
+      "keywordCoverage": 19,
+      "matchedKeywords": [
+        "TypeScript",
+        "Git",
+        "SEO"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "16186411.pdf-6",
+      "resumeName": "16186411.pdf",
+      "score": 80,
+      "confidence": 71,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1909,
+        "potentialFit": 0.0947,
+        "goodFit": 0.7143
+      },
+      "skillsMatched": 8,
+      "gapRisk": 20,
+      "keywordCoverage": 50,
+      "matchedKeywords": [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "REST API",
+        "Git",
+        "SEO",
+        "Bootstrap"
+      ],
+      "missingKeywords": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "Material UI",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 8 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15791766.pdf-4",
+      "resumeName": "15791766.pdf",
+      "score": 79,
+      "confidence": 68,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2096,
+        "potentialFit": 0.1085,
+        "goodFit": 0.6819
+      },
+      "skillsMatched": 2,
+      "gapRisk": 21,
+      "keywordCoverage": 12,
+      "matchedKeywords": [
+        "TypeScript",
+        "SEO"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Git",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17641670.pdf-10",
+      "resumeName": "17641670.pdf",
+      "score": 79,
+      "confidence": 70,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.1964,
+        "potentialFit": 0.1047,
+        "goodFit": 0.6989
+      },
+      "skillsMatched": 5,
+      "gapRisk": 21,
+      "keywordCoverage": 31,
+      "matchedKeywords": [
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "REST API",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Git",
+        "SEO",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18187364.pdf-17",
+      "resumeName": "18187364.pdf",
+      "score": 78,
+      "confidence": 67,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2293,
+        "potentialFit": 0.1048,
+        "goodFit": 0.6659
+      },
+      "skillsMatched": 5,
+      "gapRisk": 22,
+      "keywordCoverage": 31,
+      "matchedKeywords": [
+        "TypeScript",
+        "CSS",
+        "REST API",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "React",
+        "Next.js",
+        "Git",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "16899268.pdf-8",
+      "resumeName": "16899268.pdf",
+      "score": 77,
+      "confidence": 64,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2393,
+        "potentialFit": 0.1191,
+        "goodFit": 0.6416
+      },
+      "skillsMatched": 1,
+      "gapRisk": 23,
+      "keywordCoverage": 6,
+      "matchedKeywords": [
+        "TypeScript"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Git",
+        "SEO",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 1 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17111768.pdf-9",
+      "resumeName": "17111768.pdf",
+      "score": 77,
+      "confidence": 66,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2327,
+        "potentialFit": 0.1097,
+        "goodFit": 0.6576
+      },
+      "skillsMatched": 4,
+      "gapRisk": 23,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "TypeScript",
+        "Git",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17688766.pdf-12",
+      "resumeName": "17688766.pdf",
+      "score": 77,
+      "confidence": 65,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2413,
+        "potentialFit": 0.1083,
+        "goodFit": 0.6504
+      },
+      "skillsMatched": 2,
+      "gapRisk": 23,
+      "keywordCoverage": 12,
+      "matchedKeywords": [
+        "TypeScript",
+        "REST API"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "Git",
+        "SEO",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15651486.pdf-3",
+      "resumeName": "15651486.pdf",
+      "score": 76,
+      "confidence": 63,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2513,
+        "potentialFit": 0.1141,
+        "goodFit": 0.6345
+      },
+      "skillsMatched": 4,
+      "gapRisk": 24,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "TypeScript",
+        "REST API",
+        "Git",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "SEO",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18176523.pdf-16",
+      "resumeName": "18176523.pdf",
+      "score": 75,
+      "confidence": 59,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2686,
+        "potentialFit": 0.1386,
+        "goodFit": 0.5927
+      },
+      "skillsMatched": 2,
+      "gapRisk": 25,
+      "keywordCoverage": 12,
+      "matchedKeywords": [
+        "TypeScript",
+        "SEO"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Git",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 2 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "16533554.pdf-7",
+      "resumeName": "16533554.pdf",
+      "score": 72,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3001,
+        "potentialFit": 0.1672,
+        "goodFit": 0.5326
+      },
+      "skillsMatched": 3,
+      "gapRisk": 28,
+      "keywordCoverage": 19,
+      "matchedKeywords": [
+        "TypeScript",
+        "Git",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "SEO",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 3 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "17681064.pdf-11",
+      "resumeName": "17681064.pdf",
+      "score": 72,
+      "confidence": 53,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3145,
+        "potentialFit": 0.1563,
+        "goodFit": 0.5292
+      },
+      "skillsMatched": 5,
+      "gapRisk": 28,
+      "keywordCoverage": 31,
+      "matchedKeywords": [
+        "TypeScript",
+        "CSS",
+        "Git",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "React",
+        "Next.js",
+        "REST API",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15297298.pdf-2",
+      "resumeName": "15297298.pdf",
+      "score": 71,
+      "confidence": 52,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3407,
+        "potentialFit": 0.1432,
+        "goodFit": 0.5161
+      },
+      "skillsMatched": 4,
+      "gapRisk": 29,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "TypeScript",
+        "Git",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "18159866.pdf-15",
+      "resumeName": "18159866.pdf",
+      "score": 68,
+      "confidence": 43,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.369,
+        "potentialFit": 0.2031,
+        "goodFit": 0.4279
+      },
+      "skillsMatched": 4,
+      "gapRisk": 32,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "TypeScript",
+        "REST API",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "Git",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 4 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "15802627.pdf-5",
+      "resumeName": "15802627.pdf",
+      "score": 67,
+      "confidence": 41,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.3811,
+        "potentialFit": 0.2067,
+        "goodFit": 0.4122
+      },
+      "skillsMatched": 5,
+      "gapRisk": 33,
+      "keywordCoverage": 31,
+      "matchedKeywords": [
+        "TypeScript",
+        "Next.js",
+        "REST API",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Git",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Good Fit. Matched 5 of 16 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    },
+    {
+      "id": "14789139.pdf-0",
+      "resumeName": "14789139.pdf",
+      "score": 61,
+      "confidence": 45,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4544,
+        "potentialFit": 0.3153,
+        "goodFit": 0.2303
+      },
+      "skillsMatched": 4,
+      "gapRisk": 39,
+      "keywordCoverage": 25,
+      "matchedKeywords": [
+        "TypeScript",
+        "Git",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 4 of 16 role skills/keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "17987433.pdf-13",
+      "resumeName": "17987433.pdf",
+      "score": 60,
+      "confidence": 45,
+      "fitLabel": "No Fit",
+      "fitClass": 0,
+      "probabilities": {
+        "noFit": 0.4494,
+        "potentialFit": 0.4039,
+        "goodFit": 0.1467
+      },
+      "skillsMatched": 5,
+      "gapRisk": 40,
+      "keywordCoverage": 31,
+      "matchedKeywords": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "SEO"
+      ],
+      "missingKeywords": [
+        "HTML",
+        "CSS",
+        "REST API",
+        "Git",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSR",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: No Fit. Matched 5 of 16 role skills/keywords.",
+      "recommendation": "Requires deeper review for fit and technical readiness."
+    },
+    {
+      "id": "18067556.pdf-14",
+      "resumeName": "18067556.pdf",
+      "score": 58,
+      "confidence": 52,
+      "fitLabel": "Potential Fit",
+      "fitClass": 1,
+      "probabilities": {
+        "noFit": 0.4277,
+        "potentialFit": 0.5209,
+        "goodFit": 0.0514
+      },
+      "skillsMatched": 8,
+      "gapRisk": 42,
+      "keywordCoverage": 56,
+      "matchedKeywords": [
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "REST API",
+        "Git",
+        "SEO",
+        "SSR"
+      ],
+      "missingKeywords": [
+        "JavaScript",
+        "Tailwind CSS",
+        "Material UI",
+        "Bootstrap",
+        "SSG",
+        "Vercel",
+        "Netlify"
+      ],
+      "explanation": "Model prediction: Potential Fit. Matched 9 of 16 role skills/keywords.",
+      "recommendation": "Promising profile with a few role-specific gaps."
+    }
+  ],
+  "summary": {
+    "totalResumes": 18,
+    "avgScore": 73,
+    "topScore": 82,
+    "keywordInsights": {
+      "totalKeywords": 16,
+      "matchedKeywordsCount": 11,
+      "missingKeywordsCount": 5,
+      "coverageRate": 69
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 10,
+      "low": 8
+    }
+  }
+}
