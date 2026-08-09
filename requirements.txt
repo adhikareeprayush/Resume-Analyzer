@@ -1,6 +1,12 @@
 flask
+flask-sqlalchemy
+flask-cors
+psycopg2-binary
+python-dotenv
+PyJWT
 PyPDF2
 docx2txt
+gunicorn
 transformers>=4.30
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch

@@ -1,60 +1,79 @@
-import { Navigate, NavLink, Route, Routes } from 'react-router-dom'
+import { lazy, Suspense } from 'react'
+import { Navigate, Route, Routes } from 'react-router-dom'
+import { CandidateRoute, CompanyRoute } from './components/ProtectedRoute'
+import CandidateLayout from './layouts/CandidateLayout'
+import DashboardLayout from './layouts/DashboardLayout'
 import AnalyzePage from './pages/AnalyzePage'
-import HomePage from './pages/HomePage'
+import ApplyPage from './pages/ApplyPage'
+import CandidateHomePage from './pages/CandidateHomePage'
+import CandidateProfilePage from './pages/CandidateProfilePage'
+import CandidateSignupPage from './pages/CandidateSignupPage'
+import CompanyJobsPage from './pages/CompanyJobsPage'
+import DashboardHomePage from './pages/DashboardHomePage'
+import FormSubmissionsPage from './pages/FormSubmissionsPage'
+import JobDetailPage from './pages/JobDetailPage'
+import JobEditorPage from './pages/JobEditorPage'
+import LandingPage from './pages/LandingPage'
+import LoginPage from './pages/LoginPage'
+import SettingsPage from './pages/SettingsPage'
+import SignupPage from './pages/SignupPage'
+const FormBuilderPage = lazy(() => import('./pages/FormBuilderPage'))
 
-const navItems = [
-  { label: 'Overview', path: '/' },
-  { label: 'Analyze', path: '/analyze' }
-]
+function RouteFallback() {
+  return (
+    <div className="dashboard-page-wide">
+      <p className="font-mono text-xs uppercase tracking-[0.16em] text-muted">
+        Preparing the form builder…
+      </p>
+    </div>
+  )
+}
 
 function App() {
   return (
-    <div className="relative min-h-screen overflow-hidden bg-paper text-ink">
-      <div className="grain-overlay pointer-events-none absolute inset-0" />
-      <div className="grid-faint pointer-events-none absolute inset-0 opacity-45" />
+    <Routes>
+      <Route path="/" element={<LandingPage />} />
+      <Route path="/login" element={<LoginPage />} />
+      <Route path="/signup" element={<SignupPage />} />
+      <Route path="/candidate/signup" element={<CandidateSignupPage />} />
+      <Route path="/apply/:slug" element={<ApplyPage />} />
 
-      <div className="relative mx-auto flex min-h-screen w-full max-w-6xl flex-col px-4 pb-10 pt-6 sm:px-6 lg:px-8">
-        <header className="sticky top-4 z-20 rounded-2xl border border-slate/15 bg-paper/85 px-4 py-3 shadow-soft backdrop-blur md:px-6">
-          <div className="flex flex-wrap items-center justify-between gap-4">
-            <div>
-              <p className="font-display text-2xl leading-none">TalentLens Atlas</p>
-              <p className="text-xs uppercase tracking-[0.14em] text-ink/55">
-                Mock Product Experience - Phase 2
-              </p>
-            </div>
+      <Route
+        path="/dashboard"
+        element={
+          <CompanyRoute>
+            <DashboardLayout />
+          </CompanyRoute>
+        }
+      >
+        <Route index element={<DashboardHomePage />} />
+        <Route path="jobs" element={<CompanyJobsPage />} />
+        <Route path="jobs/new" element={<JobEditorPage />} />
+        <Route path="jobs/:jobId" element={<JobDetailPage />} />
+        <Route path="jobs/:jobId/edit" element={<JobEditorPage />} />
+        <Route path="jobs/:jobId/forms/new" element={<Suspense fallback={<RouteFallback />}><FormBuilderPage /></Suspense>} />
+        <Route path="jobs/:jobId/forms/:formId/edit" element={<Suspense fallback={<RouteFallback />}><FormBuilderPage /></Suspense>} />
+        <Route path="jobs/:jobId/forms/:formId/submissions" element={<FormSubmissionsPage />} />
+        <Route path="analyze" element={<AnalyzePage />} />
+        <Route path="settings" element={<SettingsPage />} />
+      </Route>
 
-            <nav className="flex flex-wrap gap-2">
-              {navItems.map((item) => (
-                <NavLink
-                  key={item.path}
-                  to={item.path}
-                  className={({ isActive }) =>
-                    `rounded-lg px-4 py-2 text-sm font-semibold transition ${
-                      isActive
-                        ? 'bg-ink text-paper'
-                        : 'bg-white text-ink ring-1 ring-slate/20 hover:ring-ink/30'
-                    }`
-                  }
-                  end={item.path === '/'}
-                >
-                  {item.label}
-                </NavLink>
-              ))}
-            </nav>
-          </div>
-        </header>
+      <Route
+        path="/candidate"
+        element={
+          <CandidateRoute>
+            <CandidateLayout />
+          </CandidateRoute>
+        }
+      >
+        <Route index element={<CandidateHomePage />} />
+        <Route path="profile" element={<CandidateProfilePage />} />
+      </Route>
 
-        <main className="mt-6 flex-1 animate-fade-rise">
-          <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/analyze" element={<AnalyzePage />} />
-            <Route path="/pipeline" element={<Navigate to="/" replace />} />
-            <Route path="/reports/:candidateId" element={<Navigate to="/" replace />} />
-            <Route path="*" element={<HomePage />} />
-          </Routes>
-        </main>
-      </div>
-    </div>
+      <Route path="/analyze" element={<Navigate to="/dashboard/analyze" replace />} />
+      <Route path="/home" element={<Navigate to="/" replace />} />
+      <Route path="*" element={<Navigate to="/" replace />} />
+    </Routes>
   )
 }
 

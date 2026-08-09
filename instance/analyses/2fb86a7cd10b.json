@@ -1,0 +1,114 @@
+{
+  "analysisId": "2fb86a7cd10b",
+  "jobTitle": "Full Stack Developer",
+  "jobDescription": "About the job\r\n\r\nA Reputed E-commerce Company is hiring!\r\n\r\nPosition:Full Stack Developer\r\n\r\n\r\n\ud83e\uddfe Job Summary\r\n\r\nWe are looking for a highly skilled Full Stack Developer to manage, develop, and scale the ecommerce platform. The ideal candidate should have strong expertise in React / Next.js frontend and PHP backend systems, along with experience in ecommerce workflows.\r\n\r\n\r\n\ud83c\udfaf Key Responsibilities\r\n\r\nFrontend Development\r\n\r\n    Build responsive UI using Next.js and React\r\n    Optimize performance (SSR, SEO, lazy loading)\r\n    Integrate APIs and manage state (Redux / Context API)\r\n\r\nBackend Development\r\n\r\n    Develop and maintain backend using PHP\r\n    Build RESTful APIs for frontend integration\r\n    Handle authentication, order processing, and business logic\r\n\r\nEcommerce Management\r\n\r\n    Maintain product catalog, cart, checkout system\r\n    Integrate payment gateways (eSewa, Khalti, etc.)\r\n    Improve conversion rate and user experience\r\n\r\nDatabase & Performance\r\n\r\n    Manage MySql/Mongo DB database\r\n    Optimize queries and server performance\r\n    Ensure data security and backups\r\n\r\nDevOps & Deployment\r\n\r\n    Deploy apps on hosting/cloud servers/ VPS\r\n    Manage domain, SSL, CDN (Cloudflare)\r\n    Version control using Git\r\n\r\n\r\n\ud83e\udde0 Required Skills\r\n\r\nMust Have:\r\n\r\n    Strong experience in:\r\n    Next.js\r\n    React\r\n    PHP\r\n    JavaScript (ES6+)\r\n    REST API development\r\n    MySQL/Mongo DB database management\r\n\r\nGood to Have:\r\n\r\n    Laravel framework\r\n    Tailwind CSS\r\n    SEO optimization (technical SEO)\r\n    Payment gateway integration experience\r\n    Experience in ecommerce platforms\r\n\r\n\r\n\ud83e\uddf0 Tools & Technologies\r\n\r\n    Git / GitHub\r\n    Postman / API testing tools\r\n    cPanel / Cloud hosting\r\n    Google Analytics / Meta Ads tools\r\n\r\n\r\n\ud83c\udf93 Qualifications\r\n\r\n    Bachelor\u2019s degree in IT / Computer Science or related field\r\n    2+ years of experience in full-stack development\r\n    Experience in ecommerce projects preferred\r\n\r\n\r\n\ud83d\udcbc Bonus Skills (Highly Preferred)\r\n\r\n    Experience scaling ecommerce platforms\r\n    Knowledge of Headless Commerce\r\n    Familiarity with mobile app APIs\r\n    Performance optimization (Core Web Vitals)\r\n\r\n\r\n\ud83d\udcc8 KPIs / Success Metrics\r\n\r\n    Website performance (PageSpeed, SEO ranking)\r\n    Conversion rate improvement\r\n    Bug-free deployments\r\n    System uptime & reliability",
+  "uploadedFiles": [
+    {
+      "name": "Web.pdf",
+      "size": 2956622,
+      "type": "pdf"
+    }
+  ],
+  "invalidFiles": [],
+  "processedAt": "2026-06-21T06:10:29.740935+00:00",
+  "keywords": [
+    "Next.js",
+    "JavaScript",
+    "REST API",
+    "MySQL",
+    "CSS",
+    "Tailwind CSS",
+    "SEO",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Redux",
+    "SSR"
+  ],
+  "matchedKeywords": [
+    "Next.js",
+    "JavaScript",
+    "REST API",
+    "MySQL",
+    "CSS",
+    "Tailwind CSS",
+    "SEO",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Redux",
+    "SSR"
+  ],
+  "missingKeywords": [],
+  "rankedResumes": [
+    {
+      "id": "Web.pdf-0",
+      "resumeName": "Web.pdf",
+      "score": 78,
+      "confidence": 66,
+      "fitLabel": "Good Fit",
+      "fitClass": 2,
+      "probabilities": {
+        "noFit": 0.2062,
+        "potentialFit": 0.1353,
+        "goodFit": 0.6585
+      },
+      "skillsMatched": 8,
+      "gapRisk": 22,
+      "keywordCoverage": 100,
+      "matchedKeywords": [
+        "Next.js",
+        "JavaScript",
+        "REST API",
+        "MySQL",
+        "CSS",
+        "Tailwind CSS",
+        "SEO",
+        "Git",
+        "GitHub",
+        "Postman",
+        "Redux",
+        "SSR"
+      ],
+      "missingKeywords": [],
+      "explanation": "Model prediction: Good Fit. Matched 12 of 12 role skills/keywords.",
+      "recommendation": "Strong shortlist profile based on role alignment."
+    }
+  ],
+  "summary": {
+    "totalResumes": 1,
+    "avgScore": 78,
+    "topScore": 78,
+    "keywordInsights": {
+      "totalKeywords": 12,
+      "matchedKeywordsCount": 12,
+      "missingKeywordsCount": 0,
+      "coverageRate": 100
+    },
+    "distribution": {
+      "high": 0,
+      "medium": 1,
+      "low": 0
+    },
+    "fitTiers": [
+      {
+        "label": "Good Fit",
+        "scoreRange": "85%+",
+        "minScore": 85,
+        "maxScore": 99
+      },
+      {
+        "label": "Potential Fit",
+        "scoreRange": "75\u201384%",
+        "minScore": 75,
+        "maxScore": 84
+      },
+      {
+        "label": "No Fit",
+        "scoreRange": "Below 75%",
+        "minScore": 0,
+        "maxScore": 74
+      }
+    ]
+  }
+}

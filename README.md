@@ -1,109 +1,104 @@
+# TalentLens Atlas — Resume Analyzer
 
+Full-stack hiring workspace: post jobs, build application forms, collect submissions, and rank resumes against job descriptions with a fine-tuned BERT fit model.
 
-# Resume Analyzer
+## Stack
 
-**Resume Analyzer** is a prototype web application that allows users to upload multiple resumes and compare them against a job description using vectorization and cosine similarity. The project is built using Python, Flask, and scikit-learn. It can also be enhanced using machine learning models for better efficiency and accuracy — work on this is in progress.
+- **Frontend**: React 19, Vite, Tailwind CSS
+- **Backend**: Flask, SQLAlchemy, JWT auth
+- **Database**: PostgreSQL 16 (host port **5433** — non-default)
+- **ML**: Hugging Face Transformers (`models/resume-fit-final`)
 
----
-
-## Features
-
-- Supports multiple resume formats: `.pdf`, `.docx`, `.txt`
-- Uses TF-IDF vectorization and cosine similarity for scoring
-- Ranks resumes based on relevance to the provided job description
-- Allows users to upload and store resumes in a custom local path
-- HTML/CSS templates can be customized as per your needs
-- Can be deployed on the web using services like PythonAnywhere
-
----
-
-## APP Interface
-
-![App Interface](https://github.com/SeekAI-786/Resume-Analyzer/blob/main/r2.png)
-
----
-
-![App Interface](https://github.com/SeekAI-786/Resume-Analyzer/blob/main/r1.png)
-
-
----
-## How It Works
-
-1. Users input a job description and upload up to 10 resumes.
-2. The application extracts text from all resumes:
-   - PDF: extracted using PyPDF2
-   - DOCX: extracted using docx2txt
-   - TXT: extracted via standard file read
-3. Text data is vectorized using `TfidfVectorizer` from scikit-learn.
-4. Cosine similarity is calculated between the job description and each resume.
-5. The top 3 matching resumes are displayed along with their similarity scores.
-
----
-
-## Running the App Locally
-
-### Requirements
-
-- Python 3.7 or higher
-- Required Python packages (Check Requirements.txt)
-
-### Installation
+## Quick start (Docker)
 
 ```bash
-git clone https://github.com/your-username/resume-analyzer.git
-cd resume-analyzer
-pip install -r requirements.txt
+cp .env.example .env
+docker compose up --build
 ```
 
-### Launch the Application
+| Service    | URL                      |
+|-----------|--------------------------|
+| Frontend  | http://localhost:3000    |
+| API       | http://localhost:5001    |
+| PostgreSQL| localhost:**5433**       |
+
+**Demo login (company):** `demo@talentlens.io` / `demo123`  
+**Demo login (candidate):** `aayush@email.com` / `candidate123`
+
+The API seeds a demo company (Northstar Labs, Nepal) with sample jobs, a published form, and submissions on first startup.
+
+## Local development (without Docker)
+
+### 1. PostgreSQL
+
+Run Postgres on port **5433** (or set `DATABASE_URL` in `.env`):
 
 ```bash
+docker compose up db -d
+```
+
+### 2. Backend
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
 python main.py
 ```
 
-Resume files will be stored in the `uploads/` directory. You can change this path in the `main.py` file as needed.
+API listens on **http://localhost:5001**.
 
----
+### 3. Frontend
 
-## Deployment
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
-This app can be deployed to web platforms such as:
+Vite dev server proxies `/api` to port 5001. Open **http://localhost:5173**.
 
-- PythonAnywhere
-- Render
-- Railway
-- Heroku (with appropriate setup like a `Procfile`)
+## API overview
 
----
+| Endpoint | Auth | Description |
+|----------|------|-------------|
+| `POST /api/auth/login` | — | Email/password login |
+| `GET /api/auth/me` | JWT | Current user |
+| `GET/POST /api/jobs` | JWT | List/create jobs |
+| `GET/PUT/DELETE /api/jobs/:id` | JWT | Job CRUD |
+| `GET/POST /api/forms` | JWT | Form CRUD |
+| `GET /api/forms/public/:slug` | — | Public apply form |
+| `POST /api/forms/public/:slug/submit` | — | Submit application |
+| `GET /api/submissions` | JWT | List submissions |
+| `GET /api/dashboard/overview` | JWT | Workspace stats |
+| `POST /api/analyze` | optional JWT | Rank resumes (multipart) |
+| `GET /api/analysis-history` | JWT | Past analyses |
+| `GET /api/health` | — | Service health |
 
-## Collaboration and Development
+## Environment variables
 
-Work is ongoing to enhance the application using machine learning for smarter resume-job matching. Planned features include:
+See `.env.example` for all options. Key values:
 
-- Deep learning-based similarity scoring
-- Better handling of resume formatting and structure
-- Filter options for specific qualifications, skills, or keywords
-- User accounts and dashboard
+- `POSTGRES_PORT=5433` — host port for Postgres
+- `API_PORT=5001` — Flask/gunicorn port
+- `FRONTEND_PORT=3000` — nginx in Docker
+- `DATABASE_URL` — SQLAlchemy connection string
+- `SECRET_KEY` — JWT signing key
 
-Contributions are welcome. 
+## Project layout
 
----
-
-## Tech Stack
-
-- **Frontend**: HTML, CSS (with customization options)
-- **Backend**: Python Flask
-- **Text Processing**: TF-IDF, Cosine Similarity
-- **File Parsing**: PyPDF2, docx2txt
-
----
+```
+app/                  Flask application factory & routes
+frontend/             React SPA
+models/resume-fit-final/   BERT classifier weights
+uploads/              Uploaded resume files
+instance/             Analysis artifacts
+docker-compose.yml    db + api + frontend
+```
 
 ## Notes
 
-This is a prototype and may not handle every edge case. It serves as a proof-of-concept for resume screening and ranking based on textual similarity. For production use, improvements in model robustness and user interface are recommended.
-
----
-
-## License
-
-MIT License
+- Resume uploads accept PDF, DOCX, and TXT (up to 150 per batch by default).
+- Analysis history is scoped to the logged-in company when a JWT is sent with `/api/analyze`.
+- For production, change `SECRET_KEY` and database credentials.

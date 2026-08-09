@@ -1,23 +1,27 @@
-import { useMemo } from 'react'
 import Chart from 'react-apexcharts'
-import AnalyzeCard from './AnalyzeCard'
+import { Card } from '../components/ui'
 
+/* Mirrors the @theme tokens in index.css so charts read as part of the system. */
 const COLORS = {
-  ink: '#111827',
-  mint: '#71c1a7',
-  coral: '#ee8a63',
-  slate: '#9ca3af',
-  paper: '#f7f5ef'
+  ink: '#0d1110',
+  ok: '#0e6f5c',
+  warn: '#9c6008',
+  signal: '#c0350f',
+  neutral: '#737d79',
+  muted: '#59635f',
+  paper: '#f2f3f1'
 }
+
+const BAND_COLORS = [COLORS.ok, COLORS.warn, COLORS.neutral]
 
 const baseChart = {
   chart: {
-    fontFamily: 'Manrope, sans-serif',
+    fontFamily: 'Geist, sans-serif',
     toolbar: { show: false },
-    animations: { enabled: true, speed: 500 }
+    animations: { enabled: false }
   },
   grid: {
-    borderColor: 'rgba(17, 24, 39, 0.08)',
+    borderColor: 'rgba(13, 17, 16, 0.08)',
     strokeDashArray: 4
   },
   tooltip: {
@@ -53,6 +57,21 @@ function buildFitCounts(resumes) {
   return counts
 }
 
+// Large batches would overplot, so keep the top, middle, and tail of the ranking.
+function sampleForScatter(resumes) {
+  if (resumes.length <= 25) return resumes
+
+  const middle = Math.floor(resumes.length / 2)
+  const picked = [...resumes.slice(0, 12), ...resumes.slice(middle - 3, middle + 3), ...resumes.slice(-6)]
+  const seen = new Set()
+
+  return picked.filter((resume) => {
+    if (seen.has(resume.id)) return false
+    seen.add(resume.id)
+    return true
+  })
+}
+
 function shortenName(name, max = 22) {
   if (!name) return 'Resume'
   return name.length > max ? `${name.slice(0, max - 3)}...` : name
@@ -71,23 +90,14 @@ function fitTierLabel(tier) {
 function AnalysisCharts({ analysis }) {
   const resumes = analysis.rankedResumes || []
 
-  const histogram = useMemo(() => buildHistogram(resumes), [resumes])
-  const fitCounts = useMemo(() => buildFitCounts(resumes), [resumes])
+  const histogram = buildHistogram(resumes)
+  const fitCounts = buildFitCounts(resumes)
   const fitTiers = analysis.summary?.fitTiers ?? DEFAULT_FIT_TIERS
   const fitLabels = fitTiers.map(fitTierLabel)
-  const topShortlist = useMemo(() => resumes.slice(0, 12), [resumes])
-  const scatterSample = useMemo(() => {
-    if (resumes.length <= 25) return resumes
-    const top = resumes.slice(0, 12)
-    const mid = resumes.slice(Math.floor(resumes.length / 2) - 3, Math.floor(resumes.length / 2) + 3)
-    const tail = resumes.slice(-6)
-    const seen = new Set()
-    return [...top, ...mid, ...tail].filter((resume) => {
-      if (seen.has(resume.id)) return false
-      seen.add(resume.id)
-      return true
-    })
-  }, [resumes])
+  const topShortlist = resumes.slice(0, 12)
+  const scatterSample = sampleForScatter(resumes)
+
+  const peakBin = Math.max(1, ...histogram.map((bin) => bin.count))
 
   const histogramOptions = {
     ...baseChart,
@@ -95,32 +105,27 @@ function AnalysisCharts({ analysis }) {
     colors: [COLORS.ink],
     plotOptions: {
       bar: {
-        borderRadius: 8,
-        columnWidth: '52%'
+        borderRadius: 3,
+        columnWidth: '46%'
       }
     },
-    dataLabels: {
-      enabled: true,
-      offsetY: -6,
-      style: { fontSize: '11px', fontWeight: 600, colors: [COLORS.ink] }
-    },
+    dataLabels: { enabled: false },
+    fill: { opacity: 1 },
     xaxis: {
       categories: histogram.map((bin) => bin.label),
-      title: { text: 'Match score band', style: { color: COLORS.slate, fontSize: '11px' } }
+      axisBorder: { color: 'rgba(13, 17, 16, 0.14)' },
+      axisTicks: { color: 'rgba(13, 17, 16, 0.14)' },
+      labels: { style: { colors: COLORS.muted, fontSize: '11px' } },
+      title: { text: 'Match score band', style: { color: COLORS.muted, fontSize: '11px' } }
     },
     yaxis: {
-      title: { text: 'Candidates', style: { color: COLORS.slate, fontSize: '11px' } },
-      tickAmount: 4
-    },
-    fill: {
-      type: 'gradient',
-      gradient: {
-        shade: 'light',
-        type: 'vertical',
-        shadeIntensity: 0.2,
-        gradientToColors: [COLORS.mint],
-        opacityFrom: 0.95,
-        opacityTo: 0.75
+      title: { text: 'Candidates', style: { color: COLORS.muted, fontSize: '11px' } },
+      min: 0,
+      max: peakBin,
+      tickAmount: Math.min(peakBin, 5),
+      labels: {
+        style: { colors: COLORS.muted, fontSize: '11px' },
+        formatter: (value) => `${Math.round(value)}`
       }
     }
   }
@@ -133,17 +138,8 @@ function AnalysisCharts({ analysis }) {
     ...baseChart,
     chart: { ...baseChart.chart, type: 'donut' },
     labels: fitLabels,
-    colors: [COLORS.mint, COLORS.coral, COLORS.slate],
-    legend: {
-      position: 'bottom',
-      fontSize: '12px',
-      labels: { colors: COLORS.ink },
-      formatter: (seriesName, opts) => {
-        const count = opts.w.globals.series[opts.seriesIndex]
-        const share = resumes.length ? Math.round((count / resumes.length) * 100) : 0
-        return `${seriesName} — ${count} (${share}%)`
-      }
-    },
+    colors: BAND_COLORS,
+    legend: { show: false },
     tooltip: {
       y: {
         formatter: (value, { seriesIndex }) => {
@@ -160,11 +156,17 @@ function AnalysisCharts({ analysis }) {
           size: '68%',
           labels: {
             show: true,
+            value: {
+              fontSize: '26px',
+              fontWeight: 600,
+              color: COLORS.ink
+            },
             total: {
               show: true,
               label: 'Candidates',
-              fontSize: '13px',
-              color: COLORS.ink,
+              fontSize: '10px',
+              fontFamily: 'Geist Mono, monospace',
+              color: COLORS.muted,
               formatter: () => `${resumes.length}`
             }
           }
@@ -183,28 +185,41 @@ function AnalysisCharts({ analysis }) {
     plotOptions: {
       bar: {
         horizontal: true,
-        borderRadius: 6,
-        barHeight: '70%',
-        distributed: true
+        borderRadius: 3,
+        barHeight: '62%',
+        distributed: true,
+        dataLabels: { position: 'top' }
       }
     },
     colors: topShortlist.map((resume) => {
-      if (resume.score >= 85) return COLORS.mint
-      if (resume.score >= 75) return COLORS.coral
-      return COLORS.slate
+      if (resume.score >= 85) return COLORS.ok
+      if (resume.score >= 75) return COLORS.warn
+      return COLORS.neutral
     }),
     dataLabels: {
       enabled: true,
+      textAnchor: 'start',
+      offsetX: 8,
       formatter: (value) => `${value}%`,
-      style: { fontSize: '11px', fontWeight: 600 }
+      style: {
+        fontSize: '11px',
+        fontWeight: 500,
+        fontFamily: 'Geist Mono, monospace',
+        colors: topShortlist.map(() => COLORS.muted)
+      }
     },
     xaxis: {
+      categories: topShortlist.map((resume) => shortenName(resume.resumeName)),
+      min: 0,
       max: 100,
-      labels: { style: { fontSize: '11px' } }
+      tickAmount: 5,
+      axisBorder: { color: 'rgba(13, 17, 16, 0.14)' },
+      axisTicks: { color: 'rgba(13, 17, 16, 0.14)' },
+      labels: { style: { colors: COLORS.muted, fontSize: '11px' } },
+      title: { text: 'Match score %', style: { color: COLORS.muted, fontSize: '11px' } }
     },
     yaxis: {
-      categories: topShortlist.map((resume) => shortenName(resume.resumeName)),
-      labels: { style: { fontSize: '11px' } }
+      labels: { style: { colors: COLORS.muted, fontSize: '11px' } }
     },
     legend: { show: false }
   }
@@ -214,7 +229,8 @@ function AnalysisCharts({ analysis }) {
   const scatterOptions = {
     ...baseChart,
     chart: { ...baseChart.chart, type: 'scatter', zoom: { enabled: false } },
-    colors: [COLORS.coral],
+    colors: [COLORS.signal],
+    grid: { ...baseChart.grid, padding: { left: 18, right: 12 } },
     markers: {
       size: 6,
       strokeWidth: 0,
@@ -224,23 +240,35 @@ function AnalysisCharts({ analysis }) {
       min: 0,
       max: 100,
       tickAmount: 5,
-      title: { text: 'Skill coverage %', style: { color: COLORS.slate, fontSize: '11px' } }
+      axisBorder: { color: 'rgba(13, 17, 16, 0.14)' },
+      axisTicks: { color: 'rgba(13, 17, 16, 0.14)' },
+      labels: { style: { colors: COLORS.muted, fontSize: '11px' } },
+      title: { text: 'Skill coverage %', style: { color: COLORS.muted, fontSize: '11px' } }
     },
     yaxis: {
       min: 0,
       max: 100,
       tickAmount: 5,
-      title: { text: 'Model match %', style: { color: COLORS.slate, fontSize: '11px' } }
+      labels: { style: { colors: COLORS.muted, fontSize: '11px' } },
+      title: { text: 'Model match %', style: { color: COLORS.muted, fontSize: '11px' } }
     },
     annotations: {
       yaxis: [
         {
           y: analysis.summary?.avgScore ?? 0,
-          borderColor: COLORS.mint,
+          borderColor: 'rgba(13, 17, 16, 0.35)',
           strokeDashArray: 4,
           label: {
-            text: 'Avg match',
-            style: { background: COLORS.paper, color: COLORS.ink, fontSize: '11px' }
+            text: `Avg match ${Math.round(analysis.summary?.avgScore ?? 0)}%`,
+            position: 'left',
+            offsetX: 78,
+            borderColor: 'transparent',
+            style: {
+              background: COLORS.paper,
+              color: COLORS.muted,
+              fontSize: '10px',
+              fontFamily: 'Geist Mono, monospace'
+            }
           }
         }
       ]
@@ -266,8 +294,8 @@ function AnalysisCharts({ analysis }) {
 
   if (resumes.length === 0) {
     return (
-      <AnalyzeCard
-        label="Analytics"
+      <Card
+        eyebrow="Analytics"
         title="Charts appear after analysis"
         description="Run an analysis to see score distribution, model fit mix, and shortlist signals."
       />
@@ -275,63 +303,60 @@ function AnalysisCharts({ analysis }) {
   }
 
   return (
-    <section className="grid gap-4 lg:grid-cols-2">
-      <AnalyzeCard
-        label="Score spread"
+    <section className="grid gap-6 lg:grid-cols-2">
+      <Card
+        eyebrow="Score spread"
         title="How candidates cluster"
         description="Distribution of match scores across every uploaded resume — useful when screening large batches."
-        delay={80}
       >
         <Chart options={histogramOptions} series={histogramSeries} type="bar" height={300} />
-      </AnalyzeCard>
+      </Card>
 
-      <AnalyzeCard
-        label="Model verdict"
+      <Card
+        eyebrow="Model verdict"
         title="Fit mix from the classifier"
-        description="Model labels each resume Good Fit, Potential Fit, or No Fit. Typical match score bands are shown in the legend."
-        variant="accent"
-        delay={150}
+        description="Model labels each resume Good Fit, Potential Fit, or No Fit. Typical match score bands are shown below."
+        variant="inset"
       >
         <Chart options={fitOptions} series={fitSeries} type="donut" height={300} />
-        <ul className="mt-4 grid gap-2 border-t border-slate/15 pt-4 sm:grid-cols-3">
+        <ul className="mt-5 grid gap-4 border-t border-ink/10 pt-5 sm:grid-cols-3">
           {fitTiers.map((tier, index) => (
-            <li
-              key={tier.label}
-              className="rounded-xl border border-slate/15 bg-paper/80 px-3 py-2 text-xs text-ink/75"
-            >
-              <span
-                className="mr-2 inline-block h-2 w-2 rounded-full"
-                style={{
-                  backgroundColor: [COLORS.mint, COLORS.coral, COLORS.slate][index]
-                }}
-              />
-              <span className="font-semibold text-ink">{tier.label}</span>
-              <span className="mt-0.5 block text-ink/60">Match score {tier.scoreRange}</span>
+            <li key={tier.label} className="text-xs">
+              <span className="flex items-center gap-2">
+                <span
+                  className="inline-block h-2 w-2 shrink-0 rounded-sm"
+                  style={{ backgroundColor: BAND_COLORS[index] }}
+                />
+                <span className="font-medium text-ink">{tier.label}</span>
+              </span>
+              <span className="readout mt-1.5 block text-ink">
+                {fitCounts[tier.label] ?? 0}
+                <span className="text-faint"> / {resumes.length}</span>
+              </span>
+              <span className="readout mt-0.5 block text-faint">{tier.scoreRange}</span>
             </li>
           ))}
         </ul>
-      </AnalyzeCard>
+      </Card>
 
-      <AnalyzeCard
+      <Card
         className="lg:col-span-2"
-        label="Shortlist view"
+        eyebrow="Shortlist view"
         title="Top candidates by match score"
-        description="Highest-ranked resumes in this run. Colors reflect score band: mint (85+), coral (75–84), slate (below 75)."
-        delay={220}
+        description="Highest-ranked resumes in this run. Bar colour follows the score band: green (85+), amber (75–84), grey (below 75)."
       >
         <Chart options={shortlistOptions} series={shortlistSeries} type="bar" height={Math.max(280, topShortlist.length * 36)} />
-      </AnalyzeCard>
+      </Card>
 
-      <AnalyzeCard
+      <Card
         className="lg:col-span-2"
-        label="Coverage vs match"
+        eyebrow="Coverage vs match"
         title="Skill alignment compared to model score"
         description="Each dot is a candidate (sampled when batches are large). Upper-right = strong skills and strong model fit."
-        variant="highlight"
-        delay={290}
+        variant="flat"
       >
         <Chart options={scatterOptions} series={scatterSeries} type="scatter" height={380} />
-      </AnalyzeCard>
+      </Card>
     </section>
   )
 }
